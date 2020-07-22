@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Zhejiang University, 2022
+* B.S. in UIUC, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring-Fall 2020: Research internship
+  * Didi Chuxing
+  * AI Labs
+  * Mentor: Zhang Lingyu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python Programming
+* AI knowledge
+  * Train DNN
+  * Knowledge about pytorch
+  * Knowledge about sklearn,pandas
+* Math knowledge
+  * Modeling
+  * Calculating
 
 Publications
 ======
