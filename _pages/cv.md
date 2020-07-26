@@ -21,10 +21,16 @@ Work experience
   * AI Labs
   * Mentor: Zhang Lingyu
 
+Courses
+======
+*Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing
+*Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing
+*Math course: Calculus, Linear Algebra, Differential Equations(Plus)
+*Optional course:Microeconomics, Rhetoric and Composition
   
 Skills
 ======
-* Python Programming
+* Python, C/C++, Matlab Programming
 * AI knowledge
   * Train DNN
   * Knowledge about pytorch
