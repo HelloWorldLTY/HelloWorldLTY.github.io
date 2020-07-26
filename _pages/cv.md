@@ -23,10 +23,10 @@ Work experience
 
 Courses
 ======
-*Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing
-*Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing
-*Math course: Calculus, Linear Algebra, Differential Equations(Plus)
-*Optional course:Microeconomics, Rhetoric and Composition
+* Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing
+* Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing
+* Math course: Calculus, Linear Algebra, Differential Equations(Plus)
+* Optional course:Microeconomics, Rhetoric and Composition
   
 Skills
 ======
