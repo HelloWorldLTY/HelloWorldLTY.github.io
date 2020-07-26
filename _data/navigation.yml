@@ -2,26 +2,12 @@
 main:
   - title: "Publications"
     url: https://ChineseBest.github.io/publications/
-
-  - title: "Talks"
-    url: https://ChineseBest.github.io/talks/    
-
-  - title: "Teaching"
-    url: https://ChineseBest.github.io/teaching/    
-    
-  - title: "Portfolio"
-    url: https://ChineseBest.github.io/portfolio/
-        
-  - title: "Blog Posts"
-    url: https://ChineseBest.github.io/year-archive/
     
   - title: "CV"
     url: https://ChineseBest.github.io/cv/
     
   - title: "Guide"
     url: https://ChineseBest.github.io/cv/
-    
-  - title: "Liu Tianyu's personal page"
-    url: https://ChineseBest.github.io/cv/
+   
     
 
