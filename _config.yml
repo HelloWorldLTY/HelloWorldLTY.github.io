@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Liu Tianyu"
-  avatar           : "person.png"
+  avatar           : "/images/person.png"
   bio              : "Student"
   location         : "China"
   employer         :
