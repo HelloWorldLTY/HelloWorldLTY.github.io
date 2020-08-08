@@ -69,14 +69,17 @@ Service and leadership
 
 Publications
 ======
+<!--
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   In process
-  
+
+<!--
 Talks
 ======
-  //<ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks %}
     //{% include archive-single-talk-cv.html %}
   //{% endfor %}</ul>
   In process 
@@ -86,5 +89,6 @@ Teaching
     //{% include archive-single-cv.html %}
   //{% endfor %}</ul>
   In process
+-->
   
 
