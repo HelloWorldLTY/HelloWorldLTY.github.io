@@ -16,11 +16,28 @@ Education
 
 Work experience
 ======
-* Spring-Fall 2020: Research internship
+* Spring-Now 2020: Research internship
   * Didi Chuxing
   * AI Labs
   * Mentor: Zhang Lingyu
+  
+Research experience
+======
+* Summer 2019: HKU summer school
+  * HKU
+  * MATH1641: Mathematical Laboratory and Modeling
+  * professor: WONG Chi Wing & LAW, Ka Ho
+  * Got A score and scholarship
+* Summer-Fall 2019: Robomaster competition in campus
+  * Third prize
+  * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
+* Spring-Now 2020: SRTP in ZJU-UIUC institute
+  * National project
+  * Progress of Minimally Invasive Surgical Robots
+  * professor: Yang Liangjing
+  * cooperator: Chang Junyu
 
+  
 Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing
@@ -37,26 +54,37 @@ Skills
   * Knowledge about sklearn,pandas
 * Math knowledge
   * Modeling
-  * Calculating
+  * Calculus
+
+Awards
+======
+* MCM Honorable Mention
+* Second prize of Zhejiang Province in national Mathematics Competition for College Students
+* Third prize scholarship of ZJUI Institute
+  
+Service and leadership
+======
+* Vice minister of one department of student union
+* Psychological committee member
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  In process
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  //<ul>{% for post in site.talks %}
+    //{% include archive-single-talk-cv.html %}
+  //{% endfor %}</ul>
+  In process 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  //<ul>{% for post in site.teaching %}
+    //{% include archive-single-cv.html %}
+  //{% endfor %}</ul>
+  In process
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
