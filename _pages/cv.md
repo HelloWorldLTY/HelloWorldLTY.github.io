@@ -67,5 +67,28 @@ Service and leadership
 * Vice minister of one department of student union
 * Psychological committee member
 
+Publications
+======
+<!--
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+-->
+  In process
 
+<!--
+Talks
+======
+  <ul>{% for post in site.talks %}
+    //{% include archive-single-talk-cv.html %}
+  //{% endfor %}</ul>
+  In process 
+Teaching
+======
+  //<ul>{% for post in site.teaching %}
+    //{% include archive-single-cv.html %}
+  //{% endfor %}</ul>
+  In process
+-->
+  
 
