@@ -40,7 +40,7 @@ Research experience
   
 Courses
 ======
-* Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing
+* Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing, Introduction to Data mining
 * Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing
 * Math course: Calculus, Linear Algebra, Differential Equations(Plus)
 * Optional course:Microeconomics, Rhetoric and Composition
@@ -49,18 +49,20 @@ Skills
 ======
 * Python, C/C++, Matlab Programming
 * AI knowledge
-  * Train DNN
+  * Concept about DNN, CNN, RNN, LSTM and GRU.
   * Knowledge about pytorch
   * Knowledge about sklearn,pandas
 * Math knowledge
   * Modeling
   * Calculus
+  * Probability and statistics
 
 Awards
 ======
 * MCM Honorable Mention
 * Second prize of Zhejiang Province in national Mathematics Competition for College Students
 * Third prize scholarship of ZJUI Institute
+* Third prize scholarship of Zhejiang University
   
 Service and leadership
 ======
