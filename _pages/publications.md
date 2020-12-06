@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Tianyu Liu, Lingyu Zhang. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. PAKDD, 2020. (Under Review)
+Tianyu Liu, Lingyu Zhang. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. PAKDD, 2020. (Under Review) <p>
 Lingyu Zhang, Tianyu Liu, Yunhai, Wang. An Intelligent Model for Solving Manpower Scheduling Problems. PAKDD, 2020. (Under Review)
 
 <!--
