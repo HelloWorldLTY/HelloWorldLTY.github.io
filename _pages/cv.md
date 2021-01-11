@@ -63,6 +63,7 @@ Awards
 * Second prize of Zhejiang Province in national Mathematics Competition for College Students
 * Third prize scholarship of ZJUI Institute
 * Third prize scholarship of Zhejiang University
+* Best Design Award in ECE 385
   
 Service and leadership
 ======
