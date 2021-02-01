@@ -36,22 +36,28 @@ Research experience
   * Progress of Minimally Invasive Surgical Robots
   * professor: Yang Liangjing
   * cooperator: Chang Junyu
+* Spring-Now 2021: ECE 397:Senior Research in UIUC
+  * Graph Mining and its Application
+  * professor: Tong Hanghang
+  * cooperator: Lian Xinyu
 
   
 Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing, Introduction to Data mining
-* Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing
+* Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing, Data Science and Application
 * Math course: Calculus, Linear Algebra, Differential Equations(Plus)
 * Optional course:Microeconomics, Rhetoric and Composition
   
 Skills
 ======
-* Python, C/C++, Matlab Programming
+* Python, C/C++, Matlab, R Programming
 * AI knowledge
-  * Concept about DNN, CNN, RNN, LSTM and GRU.
+  * Concept about DNN, CNN, RNN, LSTM, GRU and GNN.
   * Knowledge about pytorch
   * Knowledge about sklearn,pandas
+  * Basic Algorithms about Graph analysis
+  * Basic concepts about biology statistics
 * Math knowledge
   * Modeling
   * Calculus
@@ -70,6 +76,7 @@ Service and leadership
 * Vice minister of one department of student union
 * Psychological committee member
 
+<!--
 Publications
 ======
 <!--
@@ -77,8 +84,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-* Liu Tianyu, Zhang Lingyu. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. PAKDD, 2020. (Under Review) 
-* Zhang Lingyu, Liu Tianyu, Wang Yunhai. An Intelligent Model for Solving Manpower Scheduling Problems. PAKDD, 2020. (Under Review)
+//* Liu Tianyu, Zhang Lingyu. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. PAKDD, 2020. (Under Review) 
+//* Zhang Lingyu, Liu Tianyu, Wang Yunhai. An Intelligent Model for Solving Manpower Scheduling Problems. PAKDD, 2020. (Under Review)
+-->
 
 <!--
 Talks
@@ -94,5 +102,5 @@ Teaching
   //{% endfor %}</ul>
   In process
 -->
-  
+
 
