@@ -34,12 +34,12 @@ Research experience
 * Spring-Now 2020: SRTP in ZJU-UIUC institute
   * National project
   * Progress of Minimally Invasive Surgical Robots
-  * professor: Yang Liangjing
-  * cooperator: Chang Junyu
-* Spring-Now 2021: ECE 397:Senior Research in UIUC
+  * Professor: Yang Liangjing
+  * Cooperator: Chang Junyu
+* Spring-Now 2021: ECE 397: Senior Research in UIUC
   * Graph Mining and its Application
-  * professor: Tong Hanghang
-  * cooperator: Lian Xinyu
+  * Professor: Tong Hanghang
+  * Cooperator: Lian Xinyu
 
   
 Courses
