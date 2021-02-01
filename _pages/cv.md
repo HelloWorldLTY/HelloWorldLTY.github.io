@@ -79,13 +79,15 @@ Service and leadership
 <!--
 Publications
 ======
+-->
 <!--
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-//* Liu Tianyu, Zhang Lingyu. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. PAKDD, 2020. (Under Review) 
-//* Zhang Lingyu, Liu Tianyu, Wang Yunhai. An Intelligent Model for Solving Manpower Scheduling Problems. PAKDD, 2020. (Under Review)
+<!--
+* Liu Tianyu, Zhang Lingyu. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. PAKDD, 2020. (Under Review) 
+* Zhang Lingyu, Liu Tianyu, Wang Yunhai. An Intelligent Model for Solving Manpower Scheduling Problems. PAKDD, 2020. (Under Review)
 -->
 
 <!--
