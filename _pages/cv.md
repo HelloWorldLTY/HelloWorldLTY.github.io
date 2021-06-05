@@ -46,7 +46,8 @@ Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing, Introduction to Data mining
 * Core course: Computer Systems & Programming, Discrete Mathematics, Data Structure, Analog Signal Processing, Data Science and Application
-* Math course: Calculus, Linear Algebra, Differential Equations(Plus)
+* Core course: Machine Learning, Algorithms, Introduction to bioinformatics
+* Math course: Calculus, Abstract Linear Algebra, Differential Equations(Plus)
 * Optional course:Microeconomics, Rhetoric and Composition
   
 Skills
@@ -62,7 +63,14 @@ Skills
   * Modeling
   * Calculus
   * Probability and statistics
-
+* Math knowledge
+  * Modeling
+  * Calculus
+  * Probability and statistics
+* Bioinformatics knowledge
+  * Basic scRNA sequencing methods
+  * Subsequent analysis strategy
+  * Multi omics knowledge
 Awards
 ======
 * MCM Honorable Mention
@@ -70,6 +78,7 @@ Awards
 * Third prize scholarship of ZJUI Institute
 * Third prize scholarship of Zhejiang University
 * Best Design Award in ECE 385
+* Dean's List
   
 Service and leadership
 ======
