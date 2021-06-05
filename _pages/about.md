@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Highlight Projects"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Deep Learning Based Scheduling Sequence Generation Algorithm
+Batch Effect Correction based on AWGAN-GP
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Gene omics&Protein omics Intergration and Analysis based on Generative Model
+======
+
+
+
+Deep Learning based Scheduling Sequence Generation Algorithm
+======
+
+
+Abstract: The manpower scheduling problem is a kind of critical combinational optimization problem. Researching solutions to scheduling problems can improve the efﬁciency of companies, hospitals, and other work units. This paper proposes a new model combined with deep learning to solve the multi-shift manpower scheduling problem based on the existing research. This model ﬁrst solves the objective function’s optimized value according to the current constraints to ﬁnd the plan of employee arrangement initially. It will then use the scheduling table generation algorithm to obtain the scheduling result in a short time. Moreover, the most prominent feature we propose is that we will use the neural network training method based on the time series to solve long-term and long-period scheduling tasks and obtain manpower arrangement. The selection criteria of the neural network and the training process are also described in this paper. We demonstrate that our model can make a precise forecast based on the improvement of neural networks. This paper also discusses the challenges in the neural network training process and obtains enlightening results after getting the arrangement plan. Our research shows that neural networks and deep learning strategies have the potential to solve similar problems effectively.
+
+
+Operation System Competition
+======
 
 
