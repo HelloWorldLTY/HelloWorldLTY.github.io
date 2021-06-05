@@ -20,23 +20,24 @@ Work experience
   * Didi Chuxing
   * AI Labs
   * Mentor: Zhang Lingyu 
+  * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
   
 Research experience
 ======
 * Summer 2019: HKU summer school
-  * HKU
   * MATH1641: Mathematical Laboratory and Modeling
   * professor: WONG Chi Wing & LAW, Ka Ho
   * Got A score and scholarship
 * Summer-Fall 2019: Robomaster competition in campus
   * Third prize
+  * An infantry robot that can fire bullets
   * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
 * Spring-Now 2020: SRTP in ZJU-UIUC institute
   * National project
   * Progress of Minimally Invasive Surgical Robots
   * Professor: Yang Liangjing
   * Cooperator: Chang Junyu
-* Spring-Now 2021: ECE 397: Senior Research in UIUC
+* Spring-Summer 2021: Research in UIUC
   * Graph Mining and its Application
   * Professor: Tong Hanghang
   * Cooperator: Lian Xinyu
@@ -71,14 +72,16 @@ Skills
   * Basic scRNA sequencing methods
   * Subsequent analysis strategy
   * Multi omics knowledge
+
 Awards
 ======
 * MCM Honorable Mention
 * Second prize of Zhejiang Province in national Mathematics Competition for College Students
+* Dean's List
 * Third prize scholarship of ZJUI Institute
 * Third prize scholarship of Zhejiang University
 * Best Design Award in ECE 385
-* Dean's List
+
   
 Service and leadership
 ======
