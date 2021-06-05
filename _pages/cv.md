@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Spring-Now 2020: Research internship
+* March - September 2020: Research internship
   * Didi Chuxing
   * AI Labs
   * Mentor: Zhang Lingyu 
@@ -24,20 +24,20 @@ Work experience
   
 Research experience
 ======
-* Summer 2019: HKU summer school
+* July - August 2019: HKU summer school
   * MATH1641: Mathematical Laboratory and Modeling
   * professor: WONG Chi Wing & LAW, Ka Ho
   * Got A score and scholarship
-* Summer-Fall 2019: Robomaster competition in campus
+* June - October 2019: Robomaster competition in campus
   * Third prize
   * An infantry robot that can fire bullets
   * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
-* Spring-Now 2020: SRTP in ZJU-UIUC institute
+* March - Now 2020: SRTP in ZJU-UIUC institute
   * National project
   * Progress of Minimally Invasive Surgical Robots
   * Professor: Yang Liangjing
   * Cooperator: Chang Junyu
-* Spring-Summer 2021: Research in UIUC
+* December  2020 - May 2021: Research in UIUC
   * Graph Mining and its Application
   * Professor: Tong Hanghang
   * Cooperator: Lian Xinyu
