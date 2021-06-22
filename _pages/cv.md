@@ -59,7 +59,6 @@ Skills
   * Proficient in PyTorch
   * Proficient in sklearn, pandas
   * Algorithms about array, string, and graph
-  * Basic concepts about molecular biology & genomics
 * Math knowledge
   * Modeling
   * Calculus
@@ -68,6 +67,7 @@ Skills
   * Basic scRNA sequencing methods
   * Subsequent analysis strategy
   * Multi omics knowledge
+  * Basic concepts about molecular biology & genomics
 
 Awards
 ======
