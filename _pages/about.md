@@ -24,7 +24,7 @@ Abstract: The manpower scheduling problem is a kind of critical combinational op
 Operation System Competition
 ======
 I would like to thank my lovely and clever teammates at first: Lian Xinyu, Lou Jiaqi and Zhu Zhongbo.
-
+![avatar](https://github.com/ChineseBest/ChineseBest.github.io/blob/master/images/desktop.png)
 In ECE 391, we design a operation system (HarmoniOS) from a frame with almost nothing. The process can be divided into five steps: 1. Design Interrupt Descriptor Table， Real Time Clock (RTC) and keyboard response. 2. Design driver components, including terminal, file system and RTC virtualization. 3. Implement 11 system calls (including execute, halt, etc.). 4. Increase the variety of system calls. 5. Complete task scheduling structure (we utilize robin algorithm). After finishing the above five basic tasks, we also take part in a competition for extra credits, which means we can design more interesting functions for our operation system. 
 
 Finally, our OS can support the following functions:
