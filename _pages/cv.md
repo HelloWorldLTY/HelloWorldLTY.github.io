@@ -48,22 +48,18 @@ Courses
 * Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing, Introduction to Data mining
 * Core course: Computer Systems & Programming, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application
 * Core course: Machine Learning, Algorithms, Introduction to bioinformatics
-* Math course: Calculus, Abstract Linear Algebra, Differential Equations(Plus), Probability theory and statistics
-* Optional course:Microeconomics, Rhetoric and Composition
+* Math course: Calculus, Abstract Linear Algebra, Differential Equations(Plus), Probability theory and statistics, Biostatistics
+* Optional course: Microeconomics, Rhetoric and Composition
   
 Skills
 ======
-* Python, C/C++, Matlab, R Programming
+* Python, R, C/C++, Matlab, Programming
 * AI knowledge
   * Concept about Deep Learning models (including supervised learning, semi-supervised learning and unsupervised learning)
   * Proficient in PyTorch
-  * Proficient in sklearn,pandas
+  * Proficient in sklearn, pandas
   * Algorithms about array, string, and graph
-  * Basic concepts about biology statistics
-* Math knowledge
-  * Modeling
-  * Calculus
-  * Probability and statistics
+  * Basic concepts about molecular biology & genomics
 * Math knowledge
   * Modeling
   * Calculus
