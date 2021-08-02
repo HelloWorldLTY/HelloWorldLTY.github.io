@@ -12,7 +12,7 @@ Batch Effect Correction based on AWGAN-GP
 ======
 To be continued...
 
-Gene omics&Protein omics Intergration and Analysis based on Generative Model
+Gene omics&Protein omics Integration and Analysis based on Generative Model
 ======
 To be continued...
 
