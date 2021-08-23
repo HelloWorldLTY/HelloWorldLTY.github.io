@@ -47,7 +47,7 @@ Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Computing.
 * Core course: Computer Systems & Programming, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application, Introduction to Algorithms and Computing Model. 
-* Core course: Machine Learning, Introduction to bioinformatics (with Graduation Students), Database Systems. 
+* Core course: Machine Learning (with Graduation Students), Introduction to bioinformatics (with Graduation Students), Database Systems (with Graduation Students). 
 * Math course: Calculus, Abstract Linear Algebra, Differential Equations(Plus), Probability theory and statistics, Biostatistics.
 * Optional course: Microeconomics, Rhetoric and Composition.
   
