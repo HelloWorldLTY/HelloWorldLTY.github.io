@@ -45,11 +45,11 @@ Research experience
   
 Courses
 ======
-* Core course: Introduction to Computer Science, Introduction to Electronics, Introduction to Computing, Introduction to Data mining
-* Core course: Computer Systems & Programming, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application
-* Core course: Machine Learning, Algorithms, Introduction to bioinformatics
-* Math course: Calculus, Abstract Linear Algebra, Differential Equations(Plus), Probability theory and statistics, Biostatistics
-* Optional course: Microeconomics, Rhetoric and Composition
+* Core course: Introduction to Computer Science, Introduction to Computing.
+* Core course: Computer Systems & Programming, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application, Introduction to Algorithms and Computing Model. 
+* Core course: Machine Learning, Introduction to bioinformatics (with Graduation Students), Database Systems. 
+* Math course: Calculus, Abstract Linear Algebra, Differential Equations(Plus), Probability theory and statistics, Biostatistics.
+* Optional course: Microeconomics, Rhetoric and Composition.
   
 Skills
 ======
