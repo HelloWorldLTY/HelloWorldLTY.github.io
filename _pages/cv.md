@@ -93,7 +93,7 @@ Service and leadership
 
 Miscellaneous
 ======
-* I enjoy reading history books and science fictions!.
+* I enjoy reading history books and science fictions.
 * I love dogs. They are cute!
 
 <!--
