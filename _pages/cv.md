@@ -32,7 +32,7 @@ Research experience
 * March 2020 - August 2021: SRTP in ZJU-UIUC institute
   * National project
   * Progress of Minimally Invasive Surgical Robots
-  * Professor: Yang Liangjing
+  * Professor: [Yang Liangjing](https://person.zju.edu.cn/en/ylj)
   * Cooperator: Chang Junyu
 * December  2020 - May 2021: Research in UIUC
   * Graph Mining and its Application
@@ -44,7 +44,7 @@ Research experience
   * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
 * July 2019 - August 2019: HKU summer school
   * MATH1641: Mathematical Laboratory and Modeling
-  * Instructor: WONG Chi Wing & LAW, Ka Ho
+  * Instructor: [WONG Chi Wing](https://hkumath.hku.hk/MathWWW/people.php?faculty.cwwong) & [LAW, Ka Ho](https://www.scifac.hku.hk/people/law-ka-ho)
   * Got A score and scholarship
 
 
