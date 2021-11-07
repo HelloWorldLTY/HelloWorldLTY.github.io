@@ -27,7 +27,7 @@ Research experience
 ======
 * September 2021 - Now: ECE 397 (Individual Research) in UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
-  * Advisor: Shomorony Ilan
+  * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
   * Cooperator: Greenberg Grant
 * March 2020 - August 2021: SRTP in ZJU-UIUC institute
   * National project
