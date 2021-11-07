@@ -10,8 +10,8 @@ locale                   : "China"
 title                    : "Liu Tianyu's personal page"
 title_separator          : "-"
 name                     : &name "Liu Tianyu"
-description              : &description "A student"
-url                      : https://chinesebest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Undergraduate Student in University of Illinois at Urbana-Champaign and Zhejiang University"
+url                      : https://hellolty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ChineseBest"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liu Tianyu"
+  name             : "Tianyu Liu"
   avatar           : "person.jpg"
-  bio              : "Student"
+  bio              : "Undergraduate Student in University of Illinois at Urbana-Champaign and Zhejiang University"
   location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "tianyu.18@intl.zju.edu.cn"
+  email            :  "tianyul4@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
