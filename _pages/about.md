@@ -14,7 +14,7 @@ To be continued...
 
 Gene omics&Protein omics Integration and Analysis based on Generative Model
 ======
-To be continued...
+The major contribution of this work is to initially establish the transformation model between transcriptomics data and proteomics data. We proposed a model based on end-to-end learning strategy and encoder-decoder structure to predict its corresponding Antiboth-derived Tag data based on any single cell RNA sequence data, on the premise that the data used for training should come from the same tissue. We utilized the CITE-seq data and REAP-seq data for experiments and obtained promising results.
 
 
 Deep Learning based Scheduling Sequence Generation Algorithm
