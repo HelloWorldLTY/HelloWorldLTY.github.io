@@ -20,7 +20,7 @@ Work experience
 * March - September 2020: Research internship
   * Didi Chuxing
   * AI Labs
-  * Mentor: Zhang Lingyu 
+  * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu?from=singlemessage&isappinstalled=0) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
   
 Research experience
