@@ -34,10 +34,6 @@ Research experience
   * Progress of Minimally Invasive Surgical Robots
   * Professor: [Yang Liangjing](https://person.zju.edu.cn/en/ylj)
   * Cooperator: Chang Junyu
-* December  2020 - May 2021: Research in UIUC
-  * Graph Mining and its Application
-  * Advisor: Tong Hanghang
-  * Cooperator: Lian Xinyu
 * June 2019 - October 2019: Robomaster competition in campus
   * Third prize
   * An infantry robot that can fire bullets
@@ -53,8 +49,8 @@ Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Computing.
 * Core course: Computer Systems & Programming, Digital Systems Laboratory, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application, Introduction to Algorithms and Computing Model. 
-* Core course: Statistical Learning (with Graduation Students), Introduction to Bioinformatics (with Graduation Students), Database Systems (with Graduation Students). 
-* Math course: Calculus, Abstract Linear Algebra, Differential Equations (Plus), Probability Theory and Statistics, Biostatistics.
+* Core course: Statistical Learning (with Graduate Students), Introduction to Bioinformatics (with Graduate Students), Database Systems (with Graduate Students). 
+* Math course: Calculus, Abstract Linear Algebra (with Graduate Students), Differential Equations (Plus), Probability Theory and Statistics, Biostatistics.
 * Optional course: Microeconomics, Rhetoric and Composition.
   
 Skills
