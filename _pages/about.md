@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "                                 Highlight Projects"
+title: "                                               Highlight Projects"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
