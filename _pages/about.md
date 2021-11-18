@@ -16,6 +16,7 @@ Abstract: With the advancement of technology, we can generate and access large-s
 
 Bidirectional Prediction Model for Transcriptomics and Proteomics
 ======
+![Example](/images/process.pdf)
 Abstract: The major contribution of this work is to initially establish the transformation model between transcriptomics data and proteomics data. We proposed a model based on end-to-end learning strategy and encoder-decoder structure to predict its corresponding Antiboth-derived Tag data based on any single cell RNA sequence data, on the premise that the data used for training should come from the same tissue. We utilized the CITE-seq data and REAP-seq data for experiments and obtained promising results.
 
 
