@@ -10,10 +10,13 @@ redirect_from:
 
 AWGAN: A Powerful Batch Correction Model for scRNA-seq Data
 ======
+![Example](/images/flowchart00.jpg)
+![Example](/images/flowchart01.jpg)
 Abstract: With the advancement of technology, we can generate and access large-scale, high dimensional and diverse genomics data, especially through single-cell RNA sequencing (scRNA-seq). However, integrative downstream analysis from multiple scRNA-seq datasets remains challenging due to batch effects. In this paper, we focus on scRNA-seq data integration and propose a new deep learning framework based on Wasserstein Generative Adversarial Network (WGAN) combined with an attention mechanism to reduce the differences among batches. We also discuss the limitations of the existing methods and demonstrate the advantages of our new model from both theoretical and practical aspects, advocating the use of deep learning in genomics research.
 
 Bidirectional Prediction Model for Transcriptomics and Proteomics
 ======
+![Example](/images/process.jpg)
 Abstract: The major contribution of this work is to initially establish the transformation model between transcriptomics data and proteomics data. We proposed a model based on end-to-end learning strategy and encoder-decoder structure to predict its corresponding Antiboth-derived Tag data based on any single cell RNA sequence data, on the premise that the data used for training should come from the same tissue. We utilized the CITE-seq data and REAP-seq data for experiments and obtained promising results.
 
 
