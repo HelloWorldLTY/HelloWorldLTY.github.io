@@ -27,7 +27,7 @@ Abstract: The manpower scheduling problem is a kind of critical combinational op
 
 Operation System Competition
 ======
-I would like to thank my lovely and clever teammates at first: Lian Xinyu, Lou Jiaqi and Zhu Zhongbo.
+I would like to thank my lovely and clever teammates at first: [Lian Xinyu](https://xinyulian.tech), Lou Jiaqi and [Zhu Zhongbo](https://github.com/zzb66666666x).
 
 ![Example](/images/desktop.jpg)
 
