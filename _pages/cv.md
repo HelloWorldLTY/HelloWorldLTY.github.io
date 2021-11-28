@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in University of Illinois at Urbana-Champaign (UIUC), 2022
-* B.E. in Zhejiang University (ZJU), 2022
+* B.S. in [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
+* B.E. in [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
 
 
 Work experience
