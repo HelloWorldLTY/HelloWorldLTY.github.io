@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Liu Tianyu's personal page"
+title                    : "Tianyu Liu's personal page"
 title_separator          : "-"
 name                     : &name "Liu Tianyu"
 description              : &description "Undergraduate Student in University of Illinois at Urbana-Champaign and Zhejiang University"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9412-6573"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "meSuper8"
   vine             :
   weibo            :
   xing             :
