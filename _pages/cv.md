@@ -14,15 +14,6 @@ Education
 * B.S. in [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
 * B.E. in [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
 
-
-Work experience
-======
-* March - September 2020: Research internship
-  * Didi Chuxing
-  * AI Labs
-  * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu?from=singlemessage&isappinstalled=0) 
-  * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
-  
 Research experience
 ======
 * September 2021 - Now: ECE 397 (Individual Research) in UIUC
@@ -49,8 +40,26 @@ Research experience
   * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
 
 
+Work experience
+======
+* March - September 2020: Research internship
+  * Didi Chuxing
+  * AI Labs
+  * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu?from=singlemessage&isappinstalled=0) 
+  * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
+ 
+Teaching experience
+======
+* Septermber - December 2020: Teaching Assistant in Calculus I
+  * Zhejiang University
+  * Mentor: Zhou Cui 
+  * topic: Organize discussion sections related to calculus and grade students' homework, quizes, and midterms.
 
-  
+* Septermber - December 2021: Teaching Assistant in Digital Signal Processing Lab
+  * University of Illinois at Urbana-Champaign
+  * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
+  * topic: Organize discussion sections related to calculus and grade students' homework, quizes, and midterms.
+
 Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Computing.
