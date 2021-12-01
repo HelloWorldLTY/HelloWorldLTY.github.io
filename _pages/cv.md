@@ -45,7 +45,7 @@ Work experience
 * March - September 2020: Research internship
   * Didi Chuxing
   * AI Labs
-  * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu?from=singlemessage&isappinstalled=0) 
+  * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
  
 Teaching experience
@@ -58,7 +58,7 @@ Teaching experience
 * Septermber - December 2021: Teaching Assistant in Digital Signal Processing Lab
   * University of Illinois at Urbana-Champaign
   * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
-  * topic: Organize discussion sections related to calculus and grade students' homework, quizes, and midterms.
+  * topic: Grade students' lab reports.
 
 Courses
 ======
