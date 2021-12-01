@@ -16,16 +16,16 @@ Education
 
 Research experience
 ======
-* September 2021 - Now: ECE 397 (Individual Research) in UIUC
+* September 2021 - Now: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
   * Cooperator: Greenberg Grant
-* March 2021 - Now: Visiting Student in Yale University
+* March 2021 - Now: Visiting Student at Yale University
   * Trying to utilize GAN to reduce batch effect in scRNA-seq data.
   * Trying to utilize auto-encoder model to mutually predict gene expression data and protein data.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
   * Cooperator: Wang Yuge
-* March 2020 - August 2021: SRTP in ZJU-UIUC institute
+* March 2020 - August 2021: SRTP at ZJU-UIUC institute
   * National project
   * Progress of Minimally Invasive Surgical Robots
   * Professor: [Yang Liangjing](https://person.zju.edu.cn/en/ylj)
@@ -34,7 +34,7 @@ Research experience
   * MATH1641: Mathematical Laboratory and Modeling
   * Instructor: [WONG Chi Wing](https://hkumath.hku.hk/MathWWW/people.php?faculty.cwwong) & [LAW, Ka Ho](https://www.scifac.hku.hk/people/law-ka-ho)
   * Got A score and scholarship
-* June 2019 - October 2019: Robomaster competition in campus
+* June 2019 - October 2019: Robomaster competition at ZJU-UIUC institute
   * Third prize
   * An infantry robot that can fire bullets
   * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
