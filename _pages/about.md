@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome!
+=====
 
 AWGAN: A Powerful Batch Correction Model for scRNA-seq Data
 ======
