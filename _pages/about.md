@@ -95,8 +95,6 @@ Finally, our OS can support the following functions:
 
 (c) Support checking the status of running process.
 
-<a href="https://clustrmaps.com/site/1bli2"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=tET0_W-U6qIVIpiPPYlB44TEs9PiG_P5p6_uFepVD2s&cl=ffffff" /></a>
-
 
 
 
