@@ -25,7 +25,6 @@ Abstract: The major contribution of this work is to initially establish the tran
 Specular Reflection Detection and Removal Based on Deep Neural Network for Endoscope Images
 ======
 ![Example](/images/flowchart_srtp.png)
-<img src="/images/flowchart_srtp.png" width="75%" height="75%" />
 Abstract: Specular reflections have always been undesirable when processing endoscope vision for clinical purpose. Scene afflicted with strong specular reflection could result in visual confusion for the operation of surgical robot. In this paper, we propose a novel model based on deep learning framework, known as Surgical Fix Deep Neural Network (SFDNN). This model can effectively detect and fix the reflection points in different surgical videos hence opening up a whole new approach in handling undesirable specular reflections.
 
 Deep Learning based Scheduling Sequence Generation Algorithm
