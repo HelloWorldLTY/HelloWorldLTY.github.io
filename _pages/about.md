@@ -19,6 +19,7 @@ Abstract: With the advancement of technology, we can generate and access large-s
 Bidirectional Prediction Model for Transcriptomics and Proteomics
 ======
 ![Example](/images/process.jpg)
+
 Abstract: The major contribution of this work is to initially establish the transformationmodel between transcriptomics data and proteomics data. On the premise that thedata used for training should come from the same tissue, we proposed a modelbased on end-to-end learning strategy and a bidirectional encoder-decoder structure(BiAE) to predict the corresponding Antibody-derived Tag data based on anysingle-cell RNA sequence data and to predict single-cell RNA sequence data basedon its corresponding Antibody-derived Tag data. We utilized the CITE-seq dataand REAP-seq data for experiments and obtained promising results.
 
 Specular Reflection Detection and Removal Based on Deep Neural Network for Endoscope Images
