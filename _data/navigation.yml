@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: https://HelloWorldLTY.github.io/cv/
   
-  -title:"Bioinformatics List"
-   url: https://HelloWorldLTY.github.io/Bioinformatics Resources List/
+  - title: "Bioinformatics List"
+    url: https://HelloWorldLTY.github.io/Bioinformatics Resources List/
    
    
     
