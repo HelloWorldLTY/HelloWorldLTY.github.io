@@ -10,9 +10,9 @@ redirect_from:
 Here is a list for awesome journals/conferences of Bioinformatics.
 
 # Bioinformatics/Computational Biology Specific (Mainly for Genetics)
-|      Name       | Link    |
+|      Name       | Link       |
 |-----------------|------------|
-|**Journal**  ||
+|**Journal**  |<br/>|
 |Nature Methods  |https://www.nature.com/nmeth/|
 |Nature Biotechnology  |https://www.nature.com/nbt/|
 |Nature Genetics  |https://www.nature.com/ng/|
@@ -25,7 +25,7 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |Journal of Computational Biology                 |https://home.liebertpub.com/publications/journal-of-computational-biology/31       |
 |BMC Bioinformatics                 |https://bmcbioinformatics.biomedcentral.com     | 
 |BMC Genomics                 |https://bmcgenomics.biomedcentral.com | 
-|**Conference**  ||
+|**Conference**  |<br/>|
 |INTERNATIONAL CONFERENCE ON RESEARCH IN COMPUTATIONAL MOLECULAR BIOLOGY(RECOMB)                 |https://www.recomb2021.org   | 
 |RECOMB-Comparative Genomics                 |https://recombcg2021.wordpress.com       | 
 |CONFERENCE ON INTELLIGENT SYSTEMS FOR MOLECULAR BIOLOGY (ISMB/ECCB)                 |https://www.iscb.org/      | 
@@ -51,11 +51,11 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 # Machine Learning/Deep Learning/Artificial Intelligence
 |      Name       | Link    |
 |-----------------|------------|
-|**Journal**  ||
+|**Journal**  |<br/>|
 |Nature Machine Intelligence  |https://www.nature.com/natmachintell/|
 |Journal of Machine Learning Research (JMLR)  |https://www.jmlr.org|
 |Artificial Intelligence|https://www.journals.elsevier.com/artificial-intelligence|
-|**Conference**  ||
+|**Conference**  |<br/>|
 |Conference on Neural Information Processing Systems (NeurIPS)  |https://nips.cc|
 | International Conference on Machine Learning (ICML)  |https://icml.cc|
 |International Conference on Learning Representations (ICLR)  |https://iclr.cc|
