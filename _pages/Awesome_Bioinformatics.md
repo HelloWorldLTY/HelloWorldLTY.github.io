@@ -10,6 +10,7 @@ redirect_from:
 Here is a list for awesome journals/conferences of Bioinformatics.
 
 # Bioinformatics/Computational Biology Specific (Mainly for Genetics)
+
 |      Name       | Link       |
 |-----------------|------------|
 |**Journal**  |<br/>|
@@ -35,6 +36,7 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |NeurIPS Workshop: Learning Meaningful Representations of Life (LMRL)                 |https://www.lmrl.org       | 
 
 # Systems Biology/General Biology
+
 |      Name       | Link    |
 |-----------------|------------|
 |**Journal**  ||
@@ -49,6 +51,7 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |PLOS One  |https://journals.plos.org/plosone/|
 
 # Machine Learning/Deep Learning/Artificial Intelligence
+
 |      Name       | Link    |
 |-----------------|------------|
 |**Journal**  |<br/>|
