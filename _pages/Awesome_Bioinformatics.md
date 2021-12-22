@@ -56,6 +56,7 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |-----------------|------------|
 |**Journal**  |<br/>|
 |Nature Machine Intelligence  |https://www.nature.com/natmachintell/|
+|Nature Computational Science |https://www.nature.com/natcomputsci|
 |Journal of Machine Learning Research (JMLR)  |https://www.jmlr.org|
 |Artificial Intelligence|https://www.journals.elsevier.com/artificial-intelligence|
 |**Conference**  |<br/>|
