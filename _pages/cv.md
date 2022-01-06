@@ -42,7 +42,11 @@ Research experience
 
 Work experience
 ======
-* March - September 2020: Research internship
+* January 2022 - Now: Research Internship
+  * Greater Bay Area Institute of Precision Medicine
+  * Mentor: [Pan Cuiping](http://www.pancuiping.net/) 
+  * topic: Research on gene regulation of abdominal aortic aneurysm.
+* March - September 2020: Research Internship
   * Didi Chuxing
   * AI Labs
   * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
