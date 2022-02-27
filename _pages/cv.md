@@ -58,23 +58,27 @@ Teaching experience
   * Zhejiang University
   * Mentor: Zhou Cui 
   * topic: Organize discussion sections related to calculus and grade students' homework, quizes, and midterms.
-
 * Septermber - December 2021: Teaching Assistant in Digital Signal Processing Lab
   * University of Illinois at Urbana-Champaign
   * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
   * topic: Grade students' lab reports.
-
+* Septermber - December 2021: Teaching Assistant in Differential Equations (Plus)
+  * University of Illinois at Urbana-Champaign
+  * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
+  * topic:  Organize discussion sections related to calculus and grade students' homework and exams.
+ 
 Courses
 ======
 * Core course: Introduction to Computer Science, Introduction to Computing.
-* Core course: Computer Systems & Programming, Digital Systems Laboratory, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application, Introduction to Algorithms and Computing Model. 
-* Core course: Statistical Learning (with Graduate Students), Introduction to Bioinformatics (with Graduate Students), Database Systems (with Graduate Students). 
+* Core course: Computer Systems & Programming, Digital Systems Laboratory, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application, Introduction to Algorithms and Computing Model, Multimedia Signal Processing. 
+* Core course: Statistical Learning (with Graduate Students), Introduction to Bioinformatics (with Graduate Students), Bioinformatics and Statistical Tools (with Graduate Students), Database Systems (with Graduate Students), Biosensors (with Graduate Students). 
 * Math course: Calculus, Real Variables, Abstract Linear Algebra (with Graduate Students), Differential Equations (Plus), Probability Theory and Statistics, Biostatistics.
 * Optional course: Microeconomics, Rhetoric and Composition.
   
 Skills
 ======
-* Python, R, C/C++, Matlab, Programming
+* Programming
+  * Python, R, C/C++, Matlab
 * AI knowledge
   * Concept about Deep Learning models (including supervised learning, semi-supervised learning and unsupervised learning)
   * Proficient in PyTorch
@@ -96,7 +100,7 @@ Awards
 * Best Presentation Award in BDAI 2021
 * MCM Honorable Mention
 * Second prize of Zhejiang Province in national Mathematics Competition for College Students
-* Dean's List in UIUC
+* Dean's List at UIUC
 * Third prize scholarship of ZJUI Institute
 * Third prize scholarship of Zhejiang University
 * Best Design Award in ECE 385
