@@ -10,7 +10,7 @@ locale                   : "USA"
 title                    : "Tianyu Liu's personal page"
 title_separator          : "-"
 name                     : &name "Tianyu Liu"
-description              : &description "Undergraduate Student in University of Illinois at Urbana-Champaign and Zhejiang University (Will update soon~)"
+description              : &1st year PhD student @ Yale
 url                      : https://HelloWorldLTY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/HelloWorldLTY"
