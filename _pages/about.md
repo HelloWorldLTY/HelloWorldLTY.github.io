@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!
 News: I will join Yale from 2022 fall as a PhD student, supervised by Prof. Hongyu Zhao and Prof. David Van Dijk (Plan)!
 =====
 
