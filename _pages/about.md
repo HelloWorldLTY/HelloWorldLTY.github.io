@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-News: I will join Yale from 2022 fall as a PhD student, supervised by Prof. Hongyu Zhao and Prof. David Van Dijk (Plan)!
+News: I will join Yale from 2022 fall as a PhD student, advised by Prof. Hongyu Zhao and Prof. David Van Dijk (Plan)!
 =====
 
 AWGAN: A Powerful Batch Correction Model for scRNA-seq Data
