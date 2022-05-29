@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Yale University](https://www.yale.edu/), 2027 (plan)
-* B.S. in [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
-* B.E. in [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
+* Ph.D at [Yale University](https://www.yale.edu/), 2027 (plan)
+* B.S. at [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
+* B.E. at [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
 
 Research experience
 ======
