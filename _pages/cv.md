@@ -26,7 +26,7 @@ Research experience
   * Trying to utilize auto-encoder model to mutually predict gene expression data and protein data.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
   * Cooperator: Wang Yuge
-* March 2020 - August 2021: SRTP at ZJU-UIUC institute
+* March 2020 - August 2021: SRTP at Zhejiang University
   * National project
   * Progress of Minimally Invasive Surgical Robots
   * Professor: [Yang Liangjing](https://person.zju.edu.cn/en/ylj)
@@ -35,10 +35,6 @@ Research experience
   * MATH1641: Mathematical Laboratory and Modeling
   * Instructor: [WONG Chi Wing](https://hkumath.hku.hk/MathWWW/people.php?faculty.cwwong) & [LAW, Ka Ho](https://www.scifac.hku.hk/people/law-ka-ho)
   * Got A score and scholarship
-* June 2019 - October 2019: Robomaster competition at ZJU-UIUC institute
-  * Third prize
-  * An infantry robot that can fire bullets
-  * Cooperator:Jin Renjie, Chen Boer, Li Zhekai
 
 
 Work experience
@@ -103,9 +99,10 @@ Awards
 * MCM Honorable Mention
 * Second prize of Zhejiang Province in national Mathematics Competition for College Students
 * Dean's List at UIUC
-* Third prize scholarship of ZJUI Institute
 * Third prize scholarship of Zhejiang University
 * Best Design Award in ECE 385
+* Highest honor degree at UIUC
+* Highest honor degree at ZJU
 
   
 Service and leadership
@@ -117,7 +114,7 @@ Miscellaneous
 ======
 * I enjoy reading history books and science fictions.
 * I love dogs. They are cute!
-* My rank of League of Legends (LOL) is Platinum (*^_^*).
+* My rank of League of Legends (LOL) is Diamond (*^_^*).
 
 <!--
 Publications
