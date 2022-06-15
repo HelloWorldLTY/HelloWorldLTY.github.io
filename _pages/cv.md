@@ -44,7 +44,7 @@ Work experience
   * AI Labs
   * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
-* May - Now 2022: Research Internship
+* May - June 2022: Research Internship
   * Biomap
   * Computational biology research institute supported by Baidu
   * Bioinformatics scientist
