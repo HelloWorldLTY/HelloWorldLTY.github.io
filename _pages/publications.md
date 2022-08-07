@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+# Publication
+
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
@@ -17,7 +20,9 @@ author_profile: true
 * Liu Tianyu, Zhang Lingyu<sup>*</sup>. Apply Artificial Neural Network to Solving Manpower Scheduling Problem, 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 58-64, doi: 10.1109/BDAI52447.2021.9515298. (Oral)
 * Zhang Lingyu<sup>*</sup>, Liu Tianyu, Wang Yunhai. An Intelligent Model for Solving Manpower Scheduling Problems, 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 115-124, doi: 10.1109/BDAI52447.2021.9515283. (Oral)
 
+# Review
 
+* Journal of Genetics (help)
 
 <!--
 {% if author.googlescholar %}
