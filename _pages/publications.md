@@ -11,7 +11,7 @@ author_profile: true
 
 <sup>*</sup>: To whom the correspondence should be addressed.
 
-* Lance Christopher, ..., Tianyu Liu,..., Theis Fabian<sup>*</sup>. Multimodal single cell data integration challenge: Results and lessons learned, 2022. (Under review by Proceedings of Machine Learning Research)
+* Lance Christopher, ..., Tianyu Liu,..., Fabian Theis<sup>*</sup>. Multimodal single cell data integration challenge: Results and lessons learned, 2022. (Under review by Proceedings of Machine Learning Research)
 * <u>Greenberg Grant</u>, <u>Liu Tianyu</u>, Shomorony Ilan<sup>*</sup>. CAE: A Novel Model for Matching Profiles of Each Cell from Different Modalities, 2022. (In preparation)
 * <u>Liu Tianyu</u>, <u>Wang Yuge</u>, Zhao Hongyu<sup>*</sup>. AWGAN: A Powerful Batch Correction Model for scRNA-seq Data, bioRxiv. 2021.11.08.467781; doi: https://doi.org/10.1101/2021.11.08.467781. Accepted by Bioinofrmatics with a new name: ResPAN. 
 * <u>Liu Tianyu</u>, <u>Greenberg Grant</u>, Shomorony Ilan<sup>*</sup>. Matching Profiles of Identical Cells from Different Modalities, CCBGM Biannual Meeting, 2021. (Poster)
