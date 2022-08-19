@@ -22,7 +22,6 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research workshop focusing on computational immunology.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org), [Chen Lieping](https://medicine.yale.edu/lab/chen/).
-  * Cooperator: Greenberg Grant
 * September 2021 - Now: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
