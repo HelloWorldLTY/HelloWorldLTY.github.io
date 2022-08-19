@@ -17,11 +17,16 @@ Education
 
 Research experience
 ======
+* September 2022 - Now: Research assistant at Yale
+  * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
+  * Participating in the research workshop focusing on computational immunology.
+  * Advisor: [Zhao Hongyu](http://zhaocenter.org), [Chen Lieping](https://medicine.yale.edu/lab/chen/).
+  * Cooperator: Greenberg Grant
 * September 2021 - Now: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
   * Cooperator: Greenberg Grant
-* March 2021 - Now: Visiting Student at Yale University
+* March 2021 - Now: Visiting student at Yale University
   * Trying to utilize GAN to reduce batch effect in scRNA-seq data.
   * Trying to utilize auto-encoder model to mutually predict gene expression data and protein data.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
@@ -60,8 +65,8 @@ Teaching experience
   * University of Illinois at Urbana-Champaign
   * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
   * topic: Grade students' lab reports.
-* Septermber - December 2021: Teaching Assistant in Differential Equations (Plus)
-  * University of Illinois at Urbana-Champaign
+* February - May 2022: Teaching Assistant in Differential Equations (Plus)
+  * Zhejiang University
   * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
   * topic:  Organize discussion sections related to calculus and grade students' homework and exams.
  
