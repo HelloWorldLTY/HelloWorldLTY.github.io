@@ -45,16 +45,15 @@ Research experience
 
 Work experience
 ======
+* May - June 2022: Research Internship
+  * Biomap
+  * Computational biology research institute supported by Baidu
+  * Bioinformatics scientist
 * March - September 2020: Research Internship
   * Didi Chuxing
   * AI Labs
   * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
-* May - June 2022: Research Internship
-  * Biomap
-  * Computational biology research institute supported by Baidu
-  * Bioinformatics scientist
-  * Mentor: [Xu Congmin](https://scholar.google.com/citations?user=P8GJkkIAAAAJ) 
  
 Teaching experience
 ======
