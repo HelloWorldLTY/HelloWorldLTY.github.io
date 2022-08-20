@@ -72,11 +72,14 @@ Teaching experience
  
 Courses
 ======
+* UIUC:
 * Core course: Introduction to Computer Science, Introduction to Computing.
 * Core course: Computer Systems & Programming, Digital Systems Laboratory, Computer System Engineering, Discrete Mathematics, Data Structure, Analog Signal Processing, Digital Signal Processing, Data Science and Application, Introduction to Algorithms and Computing Model, Multimedia Signal Processing. 
 * Core course: Statistical Learning (with Graduate Students), Introduction to Bioinformatics (with Graduate Students), Bioinformatics and Statistical Tools (with Graduate Students), Database Systems (with Graduate Students), Biosensors (with Graduate Students). 
 * Math course: Calculus, Real Variables, Abstract Linear Algebra (with Graduate Students), Differential Equations (Plus), Probability Theory and Statistics, Biostatistics.
 * Optional course: Microeconomics, Rhetoric and Composition.
+* Yale:
+* Core course: Intermediate Machine Learning, Statistical Inference, Linear models, Foundation of Epidemiology. 
   
 Skills
 ======
