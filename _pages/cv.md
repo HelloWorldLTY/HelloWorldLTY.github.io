@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Le Zhang](https://medicine.yale.edu/profile/le_zhang/)
+  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/)
 * September 2021 - Now: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
