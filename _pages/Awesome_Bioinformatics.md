@@ -28,7 +28,6 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |BMC Genomics                 |https://bmcgenomics.biomedcentral.com | 
 |**Conference**  |<br/>|
 |INTERNATIONAL CONFERENCE ON RESEARCH IN COMPUTATIONAL MOLECULAR BIOLOGY(RECOMB)                 |http://recomb2023.bilkent.edu.tr/   | 
-|RECOMB-Comparative Genomics                 |https://recombcg2021.wordpress.com       | 
 |CONFERENCE ON INTELLIGENT SYSTEMS FOR MOLECULAR BIOLOGY (ISMB/ECCB)                 |https://www.iscb.org/      | 
 |ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB)                 |https://acm-bcb.org/      | 
 |Workshop on Algorithms in Bioinformatics (WABI)                 |https://algo2022.eu/wabi/      | 
