@@ -87,7 +87,7 @@ Skills
   * Python, R, C/C++, Matlab
 * AI knowledge
   * Concept about Deep Learning models (including supervised learning, semi-supervised learning and unsupervised learning)
-  * Proficient in PyTorch
+  * Proficient in PyTorch and Tensorflow
   * Proficient in sklearn, pandas
   * Algorithms about array, string, and graph
 * Math knowledge
@@ -96,9 +96,9 @@ Skills
   * Analysis
   * Probability and statistics
 * Bioinformatics knowledge
-  * Basic scRNA sequencing methods
+  * Basic sequencing methods
   * Subsequent analysis strategy
-  * Multi omics knowledge
+  * Multi omics knowledge/ data integration
   * Basic concepts about molecular biology & genomics
 
 Awards
