@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/)
+  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://cs.stanford.edu/~rexy/)
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
@@ -57,18 +57,18 @@ Work experience
  
 Teaching experience
 ======
-* Septermber - December 2020: Teaching Assistant in Calculus I
-  * Zhejiang University
-  * Mentor: Zhou Cui 
-  * topic: Organize discussion sections related to calculus and grade students' homework, quizes, and midterms.
-* Septermber - December 2021: Teaching Assistant in Digital Signal Processing Lab
-  * University of Illinois at Urbana-Champaign
-  * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
-  * topic: Grade students' lab reports.
 * February - May 2022: Teaching Assistant in Differential Equations (Plus)
   * Zhejiang University
   * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
   * topic:  Organize discussion sections related to calculus and grade students' homework and exams.
+* Septermber - December 2021: Teaching Assistant in Digital Signal Processing Lab
+  * University of Illinois at Urbana-Champaign
+  * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
+  * topic: Grade students' lab reports.
+* Septermber - December 2020: Teaching Assistant in Calculus I
+  * Zhejiang University
+  * Mentor: Zhou Cui 
+  * topic: Organize discussion sections related to calculus and grade students' homework, quizes, and midterms.
  
 Courses
 ======
@@ -104,13 +104,10 @@ Skills
 Awards
 ======
 * Best Presentation Award in BDAI 2021
+* 6th/30+ teams in the 1st Open Problems in scRNA-seq competition
 * MCM Honorable Mention
-* Second prize of Zhejiang Province in national Mathematics Competition for College Students
 * Dean's List at UIUC
-* Third prize scholarship of Zhejiang University
 * Best Design Award in ECE 385
-* Highest honor degree at UIUC
-* Highest honor degree at ZJU
 
   
 Service and leadership
