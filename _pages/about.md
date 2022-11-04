@@ -27,8 +27,7 @@ from a recent competition on Open Problems in Single Cell Analysis.
 
 AWGAN: A Powerful Batch Correction Model for scRNA-seq Data
 ======
-![Example](/images/flowchart00.jpg)
-![Example](/images/flowchart01.jpg)
+![Example](/images/RESPAN_total.jpg)
 Abstract: With the advancement of technology, we can generate and access large-scale, high dimensional and diverse genomics data, especially through single-cell RNA sequencing (scRNA-seq). However, integrative downstream analysis from multiple scRNA-seq datasets remains challenging due to batch effects. In this paper, we focus on scRNA-seq data integration and propose a new deep learning framework based on Wasserstein Generative Adversarial Network (WGAN) combined with an attention mechanism to reduce the differences among batches. We also discuss the limitations of the existing methods and demonstrate the advantages of our new model from both theoretical and practical aspects, advocating the use of deep learning in genomics research [link](https://respan.readthedocs.io/).
 
 Bidirectional Prediction Model for Transcriptomics and Proteomics
