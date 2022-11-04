@@ -10,7 +10,7 @@ redirect_from:
 
 CVQVAE: A representation learning based method for multi-omics single cell data integration
 ======
-![Example](/images/model_figure_cvqvae.pdf)
+![Example](/images/model_figure_cvqvae
 Abstract: The rapid development of second-generation sequencing has brought about a
 significant increase in the amount of omics data. Integrating and analyzing these
 single-cell datasets is a challenging problem. In this paper, we propose a new
