@@ -79,7 +79,7 @@ Courses
   * Math course: Calculus, Real Variables, Abstract Linear Algebra (with Graduate Students), Differential Equations (Plus), Probability Theory and Statistics, Biostatistics.
   * Optional course: Microeconomics, Rhetoric and Composition.
 * Yale:
-  * Core course: Intermediate Machine Learning, Statistical Inference, Linear models, Foundation of Epidemiology. 
+  * Core course: Intermediate Machine Learning, Statistical Inference, Linear Models, Foundation of Epidemiology, High-Dimensional Phenomena in Statistics and Learning, Trustworthy Deep Learning, Longitudinal and Multilevel Data Analysis, Theory of Survival Analysis, Theory of Generalized Linear Models
   
 Skills
 ======
