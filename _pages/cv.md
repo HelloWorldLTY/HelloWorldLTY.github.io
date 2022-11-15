@@ -50,7 +50,7 @@ Work experience
   * Computational biology research institute supported by Baidu
   * Bioinformatics scientist
 * March - September 2020: Research Internship
-  * Didi Chuxing
+  * DiDi
   * AI Labs
   * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
