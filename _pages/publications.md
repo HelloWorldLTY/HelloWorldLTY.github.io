@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-# Publication
+# Publications
 
 <u>Underline means these authors contribute equally to this work.</u> 
 
@@ -19,6 +18,10 @@ author_profile: true
 * <u>Liu Tianyu</u>, <u>Chang Junyu</u>, <u>Wang Chongyu</u>, Yang Liangjing<sup>*</sup>. Specular Reflections Detection and Removal Based on Deep Neural Network for Endoscope Images, 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2021, doi: https://doi.org/10.36227/techrxiv.16918234.v1. (Poster)
 * Liu Tianyu, Zhang Lingyu<sup>*</sup>. Apply Artificial Neural Network to Solving Manpower Scheduling Problem, 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 58-64, doi: 10.1109/BDAI52447.2021.9515298. (Oral)
 * Zhang Lingyu<sup>*</sup>, Liu Tianyu, Wang Yunhai. An Intelligent Model for Solving Manpower Scheduling Problems, 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 115-124, doi: 10.1109/BDAI52447.2021.9515283. (Oral)
+
+# Talk
+
+2nd Open Problems in Single-cell Competition during NeurIPS 2022
 
 # Review
 
