@@ -10,7 +10,7 @@ author_profile: true
 
 <sup>*</sup>: To whom the correspondence should be addressed.
 
-* Liu Tianyu, Greenberg Grant, Shomorony Ilan<sup>*</sup>. CVQVAE: A representation learning method for multi-omics single cell data integration, 17th Machine Learning in Computational Biology meeting (MLCB 2022). (Spotlight, top 12%)
+* Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A representation learning based method for multi-omics single cell data integration, Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 * Lance Christopher, ..., Liu Tianyu, ..., Theis Fabian<sup>*</sup>. Multimodal single cell data integration challenge: Results and lessons learned, PMLR 176:162-176, 2022. 
 * <u>Liu Tianyu</u>, <u>Wang Yuge</u>, Zhao Hongyu<sup>*</sup>. AWGAN: A Powerful Batch Correction Model for scRNA-seq Data, bioRxiv. 2021.11.08.467781; doi: https://doi.org/10.1101/2021.11.08.467781. Accepted by Bioinofrmatics with a new name: ResPAN. 
 * <u>Liu Tianyu</u>, <u>Greenberg Grant</u>, Shomorony Ilan<sup>*</sup>. Matching Profiles of Identical Cells from Different Modalities, CCBGM Biannual Meeting, 2021. (Poster)
