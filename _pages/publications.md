@@ -22,6 +22,7 @@ author_profile: true
 # Talk
 
 * 2nd Open Problems in Single-cell Competition during NeurIPS 2022
+* Second Annual Yale Single Cell Symposium
 
 # Review
 
