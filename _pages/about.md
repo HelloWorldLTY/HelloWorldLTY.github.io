@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: We will present our model which wins a silver medal in the 2nd Open Problems in Single-cell Competition during NeurIPS 2022!
+News: I will be traveling to the ICML2023 conference in Hawaii, feel free to contact me if you want to take a coffee!
 ======
 
 CVQVAE: A representation learning based method for multi-omics single cell data integration
