@@ -31,6 +31,15 @@ author_profile: true
 * NeurIPS 2022 Workshop: AI for Science
 * NeurIPS 2022 Workshop: Learning Meaningful Representations of Life
 
+
+# Mentees
+
+* Wenxin Long (BS @ NKU)
+* Zhiyuan Cao (BS @ SJTU, MS @ Yale)
+* Kexing Li (BS @ THU)
+* Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
+* Maira Elahi (ML4H mentee, Riverside Secondary School)
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
