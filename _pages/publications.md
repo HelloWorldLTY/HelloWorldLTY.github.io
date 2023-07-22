@@ -30,6 +30,7 @@ author_profile: true
 * Journal of Genetics (help)
 * NeurIPS 2022 Workshop: AI for Science
 * NeurIPS 2022 Workshop: Learning Meaningful Representations of Life
+* NeurIPS 2023
 
 
 # Mentees
