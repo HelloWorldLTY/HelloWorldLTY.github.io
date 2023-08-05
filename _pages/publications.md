@@ -27,10 +27,8 @@ author_profile: true
 
 # Review
 
-* Journal of Genetics (help)
-* NeurIPS 2022 Workshop: AI for Science
-* NeurIPS 2022 Workshop: Learning Meaningful Representations of Life
-* NeurIPS 2023
+* Journals: Plos Comp Bio, Journal of Genetics (help)
+* Conferences: NeurIPS 2022 (workshops), NeurIPS 2023
 
 
 # Mentees
