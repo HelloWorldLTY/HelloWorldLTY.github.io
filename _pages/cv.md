@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://cs.stanford.edu/~rexy/)
+  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/)
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
@@ -79,7 +79,7 @@ Courses
   * Math course: Calculus, Real Variables, Abstract Linear Algebra (with Graduate Students), Differential Equations (Plus), Probability Theory and Statistics, Biostatistics.
   * Optional course: Microeconomics, Rhetoric and Composition.
 * Yale:
-  * Core course: Intermediate Machine Learning, Statistical Inference, Linear Models, Foundation of Epidemiology, High-Dimensional Phenomena in Statistics and Learning, Trustworthy Deep Learning, Longitudinal and Multilevel Data Analysis, Theory of Survival Analysis, Theory of Generalized Linear Models
+  * Core course: Intermediate Machine Learning, Statistical Inference, Linear Models, Foundation of Epidemiology, High-Dimensional Phenomena in Statistics and Learning, Trustworthy Deep Learning, Longitudinal and Multilevel Data Analysis, Theory of Survival Analysis, Theory of Generalized Linear Models, AI and Foundation Models, Statistical Methods for Causal Inference.
   
 Skills
 ======
