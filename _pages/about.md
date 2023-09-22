@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: I will be traveling to the ICML2023 conference in Hawaii, feel free to contact me if you want to take a coffee!
+News: We have one paper accepted by NeurIPS 2023, see you at New Orleans!
 ======
 
 Evaluating the Utilities of Large Language Models in Single-cell Data Analysis
