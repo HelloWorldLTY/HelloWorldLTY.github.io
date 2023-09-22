@@ -9,7 +9,7 @@ author_profile: true
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
-* Liu Tianyu, Yuge Wang, Rex Ying<sup>* </sup>, Hongyu Zhao <sup>*</sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
+* Liu Tianyu, Yuge Wang, Rex Ying<sup>* </sup>, Hongyu Zhao<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
 * Liu Tianyu, Kexing Li, Yuge Wang, Hongyu Zhao<sup>*</sup>. Evaluating the Utilities of Large Language Models in Single-cell Data Analysis. Preprint, 2023. (submitted to Nature Methods)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A representation learning based method for multi-omics single cell data integration, Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A representation learning based method for multi-omics single cell data integration, Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
