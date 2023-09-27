@@ -24,6 +24,8 @@ author_profile: true
 
 * Second Annual Yale Single Cell Symposium
 * 2nd Open Problems in Single-cell Competition during NeurIPS 2022
+* Novo Nordisk, Oct 2023
+* Emory University, Oct 2023
 
 
 # Review
