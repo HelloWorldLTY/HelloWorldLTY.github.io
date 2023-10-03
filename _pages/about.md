@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 News: We have one paper accepted by NeurIPS 2023, see you at New Orleans!
+
 News: Congratulations to Kexing, for winning the best presentation award in Tsinghua University! 
 ======
 
