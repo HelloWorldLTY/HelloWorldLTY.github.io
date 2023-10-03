@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: We have one paper accepted by NeurIPS 2023, see you at New Orleans!
-
-News: Congratulations to Kexing, for winning the best presentation award in Tsinghua University! 
+News: We have one paper accepted by NeurIPS 2023, see you at New Orleans! Congratulations to Kexing, for winning the best presentation award in Tsinghua University! 
 ======
 
 Evaluating the Utilities of Large Language Models in Single-cell Data Analysis
