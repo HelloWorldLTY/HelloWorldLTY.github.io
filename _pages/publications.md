@@ -30,8 +30,8 @@ author_profile: true
 
 # Review
 
-* Journals: Plos Comp Bio, Journal of Genetics (help)
-* Conferences: NeurIPS 2022 (workshops), NeurIPS 2023
+* Journals: PLOS Comp Bio, Journal of Genetics (help)
+* Conferences: NeurIPS 2022, NeurIPS 2023, ML4H 2023
 
 
 # Mentees
