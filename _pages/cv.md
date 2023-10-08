@@ -22,21 +22,21 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Cooperator: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/)
+  * Teammates: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/).
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
-  * Cooperator: Greenberg Grant
+  * Teammates: Greenberg Grant
 * March 2021 - September 2022: Visiting student at Yale University
   * Trying to utilize GAN to reduce batch effect in scRNA-seq data.
   * Trying to utilize auto-encoder model to mutually predict gene expression data and protein data.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Cooperator: Wang Yuge
+  * Teammates: Wang Yuge
 * March 2020 - August 2021: SRTP at Zhejiang University
   * National project
   * Progress of Minimally Invasive Surgical Robots
   * Professor: [Yang Liangjing](https://person.zju.edu.cn/en/ylj)
-  * Cooperator: Chang Junyu
+  * Teammates: Chang Junyu, Wang Chongyu
 * July 2019 - August 2019: HKU summer school
   * MATH1641: Mathematical Laboratory and Modeling
   * Instructor: [WONG Chi Wing](https://hkumath.hku.hk/MathWWW/people.php?faculty.cwwong) & [LAW, Ka Ho](https://www.scifac.hku.hk/people/law-ka-ho)
