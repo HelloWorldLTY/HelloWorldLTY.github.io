@@ -31,8 +31,8 @@ author_profile: true
 # Review
 
 * Journals: PLOS Comp Bio, Journal of Genetics (help)
-* Conferences: NeurIPS 2022, NeurIPS 2023, ML4H 2023
-
+* Conferences: NeurIPS 2022, NeurIPS 2023, ML4H 2023, MLCB 2023
+* Competitions: 3rd Open Problems in Single-cell Competition
 
 # Mentees
 
