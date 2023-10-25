@@ -103,12 +103,13 @@ Skills
 
 Awards
 ======
+* MCM Honorable Mention
 * Best Presentation Award in BDAI 2021
 * 6th/30+ teams in the 1st Open Problems in scRNA-seq competition
-* Silver medal in the 2nd Open Problems in scRNA-seq competition
-* MCM Honorable Mention
 * Dean's List at UIUC
 * Best Design Award in ECE 385
+* Silver medal in the 2nd Open Problems in scRNA-seq competition
+* Scholar award in NeurIPS 2023
 
   
 Service and leadership
