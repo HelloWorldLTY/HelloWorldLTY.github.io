@@ -4,12 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Publications
+# Research
 
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
-* Liu Tianyu, Wang Yuge, Rex Ying, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
+* Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
 * Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Large Language Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A representation learning based method for multi-omics single cell data integration, Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 * Lance Christopher, ..., Liu Tianyu, ..., Theis Fabian<sup>*</sup>. Multimodal single cell data integration challenge: Results and lessons learned, Proceedings of the NeurIPS 2021 Competitions and Demonstrations Track. PMLR, 2022. 
@@ -28,11 +28,15 @@ author_profile: true
 * Emory University, Oct 2023
 
 
-# Review
+# SERVICES
 
+As reviewers:
 * Journals: PLOS Comp Bio, BMC Bioinformatics, Journal of Genetics (help)
 * Conferences: NeurIPS 2022, NeurIPS 2023, ML4H 2023, MLCB 2023, CVPR 2024
 * Competitions: 3rd Open Problems in Single-cell Competition
+
+As organizers:
+* AI+Music social activity: NeurIPS 2023.
 
 # Mentees
 
