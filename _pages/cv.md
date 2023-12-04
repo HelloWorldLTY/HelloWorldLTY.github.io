@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Teammates: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/).
+  * Teammates: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm).
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
