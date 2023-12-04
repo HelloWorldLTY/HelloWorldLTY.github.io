@@ -46,6 +46,7 @@ As organizers:
 * Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
 * Maira Elahi (ML4H mentee, Riverside Secondary School)
 
+![Example](/images/col_institue.png)
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
