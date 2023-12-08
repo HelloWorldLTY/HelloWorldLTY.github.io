@@ -3,8 +3,6 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
-# Research
-
 # Publications
 
 <u>Underline means these authors contribute equally to this work.</u> 
