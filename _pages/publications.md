@@ -26,12 +26,12 @@ author_profile: true
 * 2nd Open Problems in Single-cell Competition during NeurIPS 2022
 * Novo Nordisk, Oct 2023
 * Emory University, Oct 2023
-
+* Chan Zuckerberg Initiative, Mar 2024
 
 # SERVICES
 
 As reviewers:
-* Journals: PLOS Comp Bio, BMC Bioinformatics, Journal of Genetics (help)
+* Journals: PLOS Comp Bio, BMC Bioinformatics
 * Conferences: NeurIPS 2022, NeurIPS 2023, ML4H 2023, MLCB 2023, CVPR 2024
 * Competitions: 3rd Open Problems in Single-cell Competition
 
