@@ -54,6 +54,10 @@ Work experience
   * AI Labs
   * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
+* May - August 2024: Research Internship
+  * Genentech
+  * Machine Learning Department
+  * Mentor: [Graham Heimberg](https://www.grahamheimberg.com/about.html), [Regev Aviv](https://www.gene.com/scientists/our-scientists/aviv-regev).
  
 Teaching experience
 ======
