@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Teammates: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Girgenti Matthew](https://medicine.yale.edu/profile/matthew_girgenti/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm).
+  * Teammates: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Strittmatter Stephen](https://medicine.yale.edu/profile/stephen-strittmatter/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm).
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
@@ -45,6 +45,10 @@ Research experience
 
 Work experience
 ======
+* May - August 2024: Research Internship
+  * Genentech
+  * Machine Learning Department
+  * Mentor: [Graham Heimberg](https://www.grahamheimberg.com/about.html), [Regev Aviv](https://www.gene.com/scientists/our-scientists/aviv-regev).
 * May - June 2022: Research Internship
   * Biomap
   * Computational biology research institute supported by Baidu
@@ -54,10 +58,6 @@ Work experience
   * AI Labs
   * Mentor: [Zhang Lingyu](https://www.scholat.com/zhanglingyu.en) 
   * topic: Research in solutions for manpower scheduling problem, combining with machine learning theory.
-* May - August 2024: Research Internship
-  * Genentech
-  * Machine Learning Department
-  * Mentor: [Graham Heimberg](https://www.grahamheimberg.com/about.html), [Regev Aviv](https://www.gene.com/scientists/our-scientists/aviv-regev).
  
 Teaching experience
 ======
