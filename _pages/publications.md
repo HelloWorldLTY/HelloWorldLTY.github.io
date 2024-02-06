@@ -32,7 +32,7 @@ author_profile: true
 
 As reviewers:
 * Journals: PLOS Comp Bio, BMC Bioinformatics
-* Conferences: NeurIPS 2022, NeurIPS 2023, ML4H 2023, MLCB 2023, CVPR 2024, ICLR 2024
+* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML
 * Competitions: 3rd Open Problems in Single-cell Competition
 
 As organizers:
