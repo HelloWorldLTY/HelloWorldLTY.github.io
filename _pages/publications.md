@@ -38,6 +38,9 @@ As reviewers:
 As organizers:
 * AI+Music social activity: NeurIPS 2023.
 
+As contributors:
+* open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114) and [guidance](https://github.com/guidance-ai/guidance/pull/656).
+
 # Mentees
 
 * Wenxin Long (BS @ NKU)
