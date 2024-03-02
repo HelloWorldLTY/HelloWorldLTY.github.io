@@ -44,7 +44,7 @@ As contributors:
 # Mentees
 
 * Wenxin Long (BS @ NKU)
-* Zhiyuan Cao (BS @ SJTU, MS @ Yale)
+* Zhiyuan Cao (BS @ SJTU, MS @ Yale -> PhD @ Yale)
 * Kexing Li (BS @ THU)
 * Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
 * Maira Elahi (ML4H mentee, Riverside Secondary School)
