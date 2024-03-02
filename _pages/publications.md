@@ -42,7 +42,7 @@ As contributors:
 * open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114) and [guidance](https://github.com/guidance-ai/guidance/pull/656).
 
 # Mentees
-
+* Yiran Liu (BS @ NYU, MS @ Yale)
 * Wenxin Long (BS @ NKU)
 * Zhiyuan Cao (BS @ SJTU, MS @ Yale -> PhD @ Yale)
 * Kexing Li (BS @ THU)
