@@ -115,12 +115,6 @@ Awards
 * Silver medal in the 2nd Open Problems in scRNA-seq competition
 * Scholar award in NeurIPS 2023
 
-  
-Service and leadership
-======
-* Vice minister of one department of student union
-* Psychological committee member
-
 Miscellaneous
 ======
 * I enjoy reading history books and science fictions.
