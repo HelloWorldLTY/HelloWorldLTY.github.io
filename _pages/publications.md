@@ -10,7 +10,7 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
-* Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Preprint, 2023 (Submitted to Nature Methods).
+* Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Preprint, 2023 (Under review by Nature Methods).
 * <u>Liu Tianyu</u>, <u>Long Wenxin</u>, <u>Cao Zhiyuan</u>, Wang Yuge, Zhao Hongyu<sup>*</sup>. CosGeneGate Selects Multi-functional and Credible Biomarkers for Single-cell Analysis. Quantitative Biology 2023: AI and Cell Fate, 2023. (poster)
 * Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
 * Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Large Language Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
