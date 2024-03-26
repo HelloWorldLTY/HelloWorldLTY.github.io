@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: We have been invited to present our research at CZI! See you at California!
+News: I accept the intern offer from Genentech! See you at California!
 ======
 
 Evaluating the Utilities of Large Language Models in Single-cell Data Analysis
