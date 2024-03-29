@@ -17,7 +17,7 @@ title: "Publications"
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 * Lance Christopher, ..., Liu Tianyu, ..., Theis Fabian<sup>*</sup>. Multimodal single cell data integration challenge: Results and lessons learned. Proceedings of the NeurIPS 2021 Competitions and Demonstrations Track. PMLR, 2022. 
 * <u>Liu Tianyu</u>, <u>Wang Yuge</u>, Zhao Hongyu<sup>*</sup>. ResPAN: a powerful batch correction model for scRNA-seq data through residual adversarial networks. Bioinformatics. 2022 Aug 10;38(16):3942-3949. doi: 10.1093/bioinformatics/btac427. PMID: 35771600; PMCID: PMC9364370.
-* Liu Tianyu, Zhang Lingyu<sup>*</sup>. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 58-64, doi: 10.1109/BDAI52447.2021.9515298. (Oral)
+* Liu Tianyu, Zhang Lingyu<sup>*</sup>. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 58-64, doi: 10.1109/BDAI52447.2021.9515298. (Oral, [Best Paper Award](https://www.bdai.net/2021.html))
 
 
 # Talk
@@ -39,7 +39,7 @@ As organizers:
 * AI+Music social activity: NeurIPS 2023.
 
 As contributors:
-* open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114) and [guidance](https://github.com/guidance-ai/guidance/pull/656).
+* open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114), [guidance](https://github.com/guidance-ai/guidance/pull/656) and [Deeprobust](https://github.com/DSE-MSU/DeepRobust/pull/154).
 
 # Mentees
 * Yiran Liu (BS @ NYU, MS @ Yale)
