@@ -45,7 +45,7 @@ As contributors:
 * Yiran Liu (BS @ NYU, MS @ Yale)
 * Wenxin Long (BS @ NKU)
 * Zhiyuan Cao (BS @ SJTU, MS @ Yale -> PhD @ Yale)
-* Kexing Li (BS @ THU)
+* Kexing Li (BS @ THU -> PhD @ Yale)
 * Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
 * Maira Elahi (ML4H mentee, Riverside Secondary School)
 
