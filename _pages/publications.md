@@ -43,7 +43,7 @@ As contributors:
 
 # Mentees
 * Yiran Liu (BS @ NYU, MS @ Yale)
-* Wenxin Long (BS @ NKU)
+* Wenxin Long (BS @ NKU -> PhD @ PSU)
 * Zhiyuan Cao (BS @ SJTU, MS @ Yale -> PhD @ Yale)
 * Kexing Li (BS @ THU -> PhD @ Yale)
 * Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
