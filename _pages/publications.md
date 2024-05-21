@@ -11,7 +11,7 @@ title: "Publications"
 
 <sup>*</sup>: To whom the correspondence should be addressed.
 * Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Preprint, 2023 (Under review by Nature Methods).
-* <u>Liu Tianyu</u>, <u>Long Wenxin</u>, <u>Cao Zhiyuan</u>, Wang Yuge, Zhao Hongyu<sup>*</sup>. CosGeneGate Selects Multi-functional and Credible Biomarkers for Single-cell Analysis. Quantitative Biology 2023: AI and Cell Fate, 2023. (poster)
+* <u>Liu Tianyu</u>, <u>Long Wenxin</u>, <u>Cao Zhiyuan</u>, Wang Yuge, Zhao Hongyu<sup>*</sup>. CosGeneGate Selects Multi-functional and Credible Biomarkers for Single-cell Analysis. Quantitative Biology 2023: AI and Cell Fate, 2023. (poster, submitted to Science Advances)
 * Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
 * Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Large Language Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
@@ -31,7 +31,7 @@ title: "Publications"
 # SERVICES
 
 As reviewers:
-* Journals: PLOS Comp Bio, BMC Bioinformatics
+* Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS
 * Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML
 * Competitions: 3rd Open Problems in Single-cell Competition
 
@@ -39,7 +39,7 @@ As organizers:
 * AI+Music social activity: NeurIPS 2023.
 
 As contributors:
-* open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114), [guidance](https://github.com/guidance-ai/guidance/pull/656) and [Deeprobust](https://github.com/DSE-MSU/DeepRobust/pull/154).
+* open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114), [guidance](https://github.com/guidance-ai/guidance/pull/656) and [Deeprobust](https://github.com/DSE-MSU/DeepRobust/pull/154), [scVI](https://github.com/scverse/scvi-tools/pull/2775).
 
 # Mentees
 * Yiran Liu (BS @ NYU, MS @ Yale)
