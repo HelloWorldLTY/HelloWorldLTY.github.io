@@ -19,7 +19,6 @@ title: "Publications"
 * <u>Liu Tianyu</u>, <u>Wang Yuge</u>, Zhao Hongyu<sup>*</sup>. ResPAN: a powerful batch correction model for scRNA-seq data through residual adversarial networks. Bioinformatics. 2022 Aug 10;38(16):3942-3949. doi: 10.1093/bioinformatics/btac427. PMID: 35771600; PMCID: PMC9364370.
 * Liu Tianyu, Zhang Lingyu<sup>*</sup>. Apply Artificial Neural Network to Solving Manpower Scheduling Problem. 4th International Conference on Big Data and Artificial Intelligence (BDAI), 2021, pp. 58-64, doi: 10.1109/BDAI52447.2021.9515298. (Oral, [Best Paper Award](https://www.bdai.net/2021.html))
 
-
 # Talk
 
 * Second Annual Yale Single Cell Symposium
