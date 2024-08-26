@@ -11,7 +11,6 @@ title: "Publications"
 
 <sup>*</sup>: To whom the correspondence should be addressed.
 * Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
-* <u>Liu Tianyu</u>, <u>Long Wenxin</u>, <u>Cao Zhiyuan</u>, Wang Yuge, Zhao Hongyu<sup>*</sup>. CosGeneGate Selects Multi-functional and Credible Biomarkers for Single-cell Analysis. Quantitative Biology 2023: AI and Cell Fate, 2023. (poster, under review by Bioinformatics)
 * Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
 * Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
@@ -30,7 +29,7 @@ title: "Publications"
 
 As reviewers:
 * Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP
-* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML
+* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI
 * Competitions: 3rd Open Problems in Single-cell Competition
 
 As organizers:
@@ -39,10 +38,6 @@ As organizers:
 As contributors:
 * open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114), [guidance](https://github.com/guidance-ai/guidance/pull/656), [Deeprobust](https://github.com/DSE-MSU/DeepRobust/pull/154), and [scVI](https://github.com/scverse/scvi-tools/pull/2775).
 
-
-# Funding
-
-My projects are supported by NSF (awarded to H.Z.), NIH (awarded to H.Z.) and OpenAI (awarded to T.L.).
 
 # Mentees
 * Yiran Liu (BS @ NYU, MS @ Yale)
