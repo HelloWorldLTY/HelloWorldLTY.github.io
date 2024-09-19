@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: I accept the intern offer from Genentech! See you at California!
+News: One paper accepted by EMNLP 2024, see you at Miami!
 ======
 
 Evaluating the Utilities of Large Language Models in Single-cell Data Analysis
