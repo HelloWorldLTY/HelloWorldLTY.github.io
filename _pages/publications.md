@@ -30,7 +30,7 @@ title: "Publications"
 
 As reviewers:
 * Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP
-* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI
+* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI, AISTATS
 * Competitions: 3rd Open Problems in Single-cell Competition
 
 As organizers:
