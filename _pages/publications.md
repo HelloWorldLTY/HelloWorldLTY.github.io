@@ -11,6 +11,8 @@ title: "Publications"
 
 <sup>*</sup>: To whom the correspondence should be addressed.
 * Liu Tianyu, Xiao Yijia, Luo Xiao, Xu Hua, Zheng Jim Wenjin, Zhao Hongyu<sup>*</sup>. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research. The 2024 Conference on Empirical Methods in Natural Language Processing. ACL, 2024. (poster)
+* Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. BAITSAO: Building A Foundation Model for Drug Synergy Analysis Powered by Language Models. Preprint, 2024. (Under review by Nature Biomedical Engineering)
+* Liu Tianyu, Lin Yingxin, Luo Xiao, Sun Yizhou, Zhao Hongyu<sup>*</sup>. VISTA Uncovers Missing Gene Expression and Spatial-induced Information for Spatial Transcriptomic Data Analysis. Preprint, 2024. (Under review by Cell Genomics)
 * Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
 * Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
 * Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
