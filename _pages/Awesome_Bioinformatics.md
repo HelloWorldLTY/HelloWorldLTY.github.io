@@ -17,6 +17,7 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |Nature Methods  |https://www.nature.com/nmeth/|
 |Nature Biotechnology  |https://www.nature.com/nbt/|
 |Nature Genetics  |https://www.nature.com/ng/|
+|Cell Genomics  |https://www.cell.com/cell-genomics/home|
 |Genome Research  |https://genome.cshlp.org|
 |Genome Biology |https://genomebiology.biomedcentral.com|
 |Nucleic Acids Research |https://academic.oup.com/nar|
@@ -44,6 +45,7 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |Science  |https://www.science.org|
 |The Proceedings of the National Academy of Sciences  |https://www.pnas.org/page/about|
 |Nature Communication  |https://www.nature.com/ncomms/|
+|Science Advances  |https://www.science.org/journal/sciadv|
 |Cell Systems  |https://www.cell.com/cell-systems/home|
 |Molecular Systems Biology  |https://www.embopress.org/journal/17444292|
 |PLOS Biology  |https://journals.plos.org/plosbiology/|
