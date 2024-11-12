@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: One paper accepted by EMNLP 2024, see you at Miami! Two papers accepted by NeurIPS 2024, see you in virtual!
+News: One paper accepted by Briefings in Bioinformatics, Big congs to Wenxin and Zhiyuan!
 ======
 
 Evaluating the Utilities of Large Language Models in Single-cell Data Analysis
