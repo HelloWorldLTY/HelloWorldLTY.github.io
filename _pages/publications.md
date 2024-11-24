@@ -32,11 +32,12 @@ title: "Publications"
 
 As reviewers:
 * Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP
-* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI, AISTATS
+* Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI, AISTATS, ARR
 * Competitions: 3rd Open Problems in Single-cell Competition
 
 As organizers:
 * AI+Music social activity: NeurIPS 2023.
+* LLMs for biomedical research meeting: EMNLP 2024.
 
 As contributors:
 * open-source softwares including [scGLUE](https://github.com/gao-lab/GLUE/pull/114), [guidance](https://github.com/guidance-ai/guidance/pull/656), [Deeprobust](https://github.com/DSE-MSU/DeepRobust/pull/154), and [scVI](https://github.com/scverse/scvi-tools/pull/2775).
