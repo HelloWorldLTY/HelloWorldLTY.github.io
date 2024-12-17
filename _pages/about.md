@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-News: One paper accepted by Briefings in Bioinformatics, Big congs to Wenxin and Zhiyuan!
+News: One paper accepted by RECOMB 2025 for oral presentation! Big congs to all the co-authors!
 ======
 
-Evaluating the Utilities of Large Language Models in Single-cell Data Analysis
+Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states
+======
+![Example](/images/pascient_pre.png)
+Abstract: Single-cell RNA-seq (scRNA-seq) has become a prominent tool for studying human biology and disease. The availability of massive scRNA-seq datasets and advanced machine learning techniques has recently driven the development of single-cell foundation models that provide informative and versatile cell representations based on expression profiles. However, to understand disease states, we need to consider entire tissue ecosystems, simultaneously considering many different interacting cells. Here, we tackle this challenge by generating \emph{patient-level} representations derived from multi-cellular expression context measured with scRNA-seq of tissues. We develop PaSCient, a novel model that employs a multi-level representation learning paradigm and provides importance scores at the individual cell and gene levels for fine-grained analysis across multiple cell types and gene programs characteristic of a given disease. We apply PaSCient to learn a disease model across a large-scale scRNA-seq atlas of 24.3 million cells from over 5,000 patients. Comprehensive and rigorous benchmarking demonstrates the superiority of PaSCient in disease classification and its multiple downstream applications, including dimensionality reduction, gene/cell type prioritization, and patient subgroup discovery.
+
+Evaluating the Utilities of Foundation Models in Single-cell Data Analysis
 ======
 ![Example](/images/singlecell_llm.png)
-Abstract: Large Language Models (LLMs) or foundation models have made significant strides in both industrial and scientific domains. In this paper, we evaluate the performance of LLMs in single-cell sequencing data analysis through comprehensive experiments across eight downstream tasks pertinent to single-cell data. By comparing seven different single-cell LLMs with task-specific methods, we found that single-cell LLMs may not consistently excel in all tasks than task-specific methods. However, the emergent abilities and the successful applications of cross-species/cross-modality transfer learning of LLMs are promising. In addition, we present a systematic evaluation of the effects of hyper-parameters, initial settings, and stability for training single-cell LLMs based on a proposed **scEval** framework, and provide guidelines for pre-training and fine-tuning. Our work summarizes the current state of single-cell LLMs, and points to their constraints and avenues for future investigation.
+Abstract: Foundation Models (FMs) have made significant strides in both industrial and scientific domains. In this paper, we evaluate the performance of FMs for single-cell sequencing data analysis through comprehensive experiments across eight downstream tasks pertinent to single-cell data. Overall, the top FMs include scGPT, Geneformer, and CellPLM by considering model performances and user accessibility among ten single-cell FMs. However, by comparing these FMs with task-specific methods, we found that single-cell FMs may not consistently excel than task-specific methods in all tasks, which challenges the necessity of developing foundation models for single-cell analysis. In addition, we evaluated the effects of hyper-parameters, initial settings, and stability for training single-cell FMs based on a proposed \textbf{scEval} framework, and provide guidelines for pre-training and fine-tuning, to enhance the performances of single-cell FMs. Our work summarizes the current state of single-cell FMs, points to their constraints and avenues for future development, and offers a freely available evaluation pipeline to benchmark new models and improve method development.
 
 CVQVAE: A representation learning based method for multi-omics single cell data integration
 ======
