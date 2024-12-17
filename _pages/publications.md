@@ -10,6 +10,7 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
+* <u>Liu, Tianyu</u> and <u>De Brouwer, Edward</u> and Kuo, Tony and Diamant, Nathaniel and Missarova, Alsu and Wang, Hanchen and Hao, Minsheng and Bravo, Hector Corrada and Scalia, Gabriele<sup>* </sup> and Regev, Aviv<sup>* </sup> and Heimberg Graham<sup>* </sup>. Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states. RECOMB, 2025. (oral)
 * Liu Tianyu, Xiao Yijia, Luo Xiao, Xu Hua, Zheng Jim Wenjin, Zhao Hongyu<sup>*</sup>. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research. The 2024 Conference on Empirical Methods in Natural Language Processing. ACL, 2024. (poster)
 * Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. BAITSAO: Building A Foundation Model for Drug Synergy Analysis Powered by Language Models. Preprint, 2024. (Under review by Nature Biomedical Engineering)
 * Liu Tianyu, Lin Yingxin, Luo Xiao, Sun Yizhou, Zhao Hongyu<sup>*</sup>. VISTA Uncovers Missing Gene Expression and Spatial-induced Information for Spatial Transcriptomic Data Analysis. Preprint, 2024. (Under review by Cell Genomics)
