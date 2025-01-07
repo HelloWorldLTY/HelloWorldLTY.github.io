@@ -10,7 +10,7 @@ locale                   : "USA"
 title                    : "Tianyu Liu's personal page"
 title_separator          : "-"
 name                     : &name "Tianyu Liu"
-description              : &3rd year PhD student @ Yale. I am interested in Machine Learning for Computational Biology and Foundation Models for Science.
+description              : &3rd year PhD candidate @ Yale. I am interested in Machine Learning for Computational Biology and Foundation Models for Science.
 url                      : https://HelloWorldLTY.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/HelloWorldLTY"
