@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D at [Yale University](https://www.yale.edu/), 2027 (plan)
-* M.S. at [Yale University](https://www.yale.edu/), 2024 (plan)
+* M.S. at [Yale University](https://www.yale.edu/), 2024 
 * B.S. with highest honor at [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
 * B.E. with outstanding student at [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
 
@@ -61,6 +61,18 @@ Work experience
  
 Teaching experience
 ======
+* January - May 2024: Teaching Assistant in Biomedical NLP
+  * Yale University
+  * Mentor: [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Chen Qingyu](https://medicine.yale.edu/profile/qingyu-chen/)
+  * topic:  Organize discussion sections related to biomedical NLP and grade students' homework and exams.
+* Septermber - December 2024: Teaching Assistant in Linear Models
+  * Yale University
+  * Mentor: [Ma Zongming](https://zmastat.github.io/)
+  * topic:  Organize discussion sections related to linear models and grade students' homework and exams.
+* February - May 2022: Teaching Assistant in Differential Equations (Plus)
+  * Zhejiang University
+  * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
+  * topic:  Organize discussion sections related to calculus and grade students' homework and exams.
 * February - May 2022: Teaching Assistant in Differential Equations (Plus)
   * Zhejiang University
   * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
