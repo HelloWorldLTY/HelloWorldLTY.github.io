@@ -10,6 +10,7 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
+* Liu Tianyu, Zhang Xiangyu, Ying Rex, Zhao Hongyu<sup>*</sup>. Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics. Preprint, 2024. (Under review by Cell Press Multi-Journals)
 * Liu Tianyu, Huang Tinglin, Lin Yingxin, Ying Rex, Zhao Hongyu<sup>*</sup>. UNICORN: Towards Universal Cellular Expression Prediction with an Explainable Multi-Task Learning Framework. Preprint, 2024. (Under review by Nature Communications)
 * Liu Tianyu, Huang Tinglin, Ying Rex, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Preprint, 2024. (Under review by Nature Biotechnology)
 * <u>Liu, Tianyu</u> and <u>De Brouwer, Edward</u> and Kuo, Tony and Diamant, Nathaniel and Missarova, Alsu and Wang, Hanchen and Hao, Minsheng and Bravo, Hector Corrada and Scalia, Gabriele<sup>* </sup> and Regev, Aviv<sup>* </sup> and Heimberg Graham<sup>* </sup>. Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states. Research in Computational Molecular Biology (RECOMB), 2025. (oral, invited submission to Cell Systems)
