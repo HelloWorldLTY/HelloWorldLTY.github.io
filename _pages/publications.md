@@ -10,16 +10,16 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
+* Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. BAITSAO: Building A Foundation Model for Drug Synergy Analysis Powered by Language Models. Preprint, 2025. (in press, Nature Communications)
 * Liu Tianyu, Zhang Xiangyu, Ying Rex, Zhao Hongyu<sup>*</sup>. Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics. Preprint, 2024. (Under review by Cell Press Multi-Journals)
 * Liu Tianyu, Huang Tinglin, Lin Yingxin, Ying Rex, Zhao Hongyu<sup>*</sup>. UNICORN: Towards Universal Cellular Expression Prediction with an Explainable Multi-Task Learning Framework. Preprint, 2024. (Under review by Nature Communications)
 * Liu Tianyu, Huang Tinglin, Ying Rex, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Preprint, 2024. (Under review by Nature Biotechnology)
-* <u>Liu, Tianyu</u> and <u>De Brouwer, Edward</u> and Kuo, Tony and Diamant, Nathaniel and Missarova, Alsu and Wang, Hanchen and Hao, Minsheng and Bravo, Hector Corrada and Scalia, Gabriele<sup>* </sup> and Regev, Aviv<sup>* </sup> and Heimberg Graham<sup>* </sup>. Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states. Research in Computational Molecular Biology (RECOMB), 2025. (oral, invited submission to Cell Systems)
+* <u>Liu, Tianyu</u> and <u>De Brouwer, Edward</u> and Kuo, Tony and Diamant, Nathaniel and Missarova, Alsu and Wang, Hanchen and Hao, Minsheng and Bravo, Hector Corrada and Scalia, Gabriele<sup>* </sup> and Regev, Aviv<sup>* </sup> and Heimberg Graham<sup>* </sup>. Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states. Research in Computational Molecular Biology (RECOMB), 2025. (oral, under review by Cell Systems)
 * Liu Tianyu, Xiao Yijia, Luo Xiao, Xu Hua, Zheng Jim Wenjin, Zhao Hongyu<sup>*</sup>. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research. The 2024 Conference on Empirical Methods in Natural Language Processing. ACL, 2024. (poster)
-* Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. BAITSAO: Building A Foundation Model for Drug Synergy Analysis Powered by Language Models. Preprint, 2024. (Under review by Nature Biomedical Engineering)
 * Liu Tianyu, Lin Yingxin, Luo Xiao, Sun Yizhou, Zhao Hongyu<sup>*</sup>. VISTA Uncovers Missing Gene Expression and Spatial-induced Information for Spatial Transcriptomic Data Analysis. Preprint, 2024. (Under review by Cell Genomics)
 * Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
 * Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
-* Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Nature Methods)
+* Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Molecular Systems Biology)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 
 # Talk
