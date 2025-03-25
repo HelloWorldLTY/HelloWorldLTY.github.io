@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: One paper accepted by Nature Communications! Big congs to Xiao and Tinyi!
-<!-- News: I will join Broad Institute as a visiting scholar this summer, see you at Boston! -->
-<!-- News: One paper accepted by RECOMB 2025 for oral presentation! Big congs to all the co-authors! -->
+News: One paper accepted by Nature Communications! Big congs to Xiao and Tinyi! <!-- News: I will join Broad Institute as a visiting scholar this summer, see you at Boston! --> <!-- News: One paper accepted by RECOMB 2025 for oral presentation! Big congs to all the co-authors! -->
 ======
 
 Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states
