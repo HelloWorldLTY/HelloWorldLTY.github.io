@@ -10,7 +10,7 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
-* Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. BAITSAO: Building A Foundation Model for Drug Synergy Analysis Powered by Language Models. Preprint, 2025. (in press, Nature Communications)
+* Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. Building A Unified Model for Drug Synergy Analysis Powered by Language Models. Nature Communications, 16.1 (2025): 1-17.
 * Liu Tianyu, Zhang Xiangyu, Ying Rex, Zhao Hongyu<sup>*</sup>. Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics. Preprint, 2024. (Under review by Cell Press Multi-Journals)
 * Liu Tianyu, Huang Tinglin, Lin Yingxin, Ying Rex, Zhao Hongyu<sup>*</sup>. UNICORN: Towards Universal Cellular Expression Prediction with an Explainable Multi-Task Learning Framework. Preprint, 2024. (Under review by Nature Communications)
 * Liu Tianyu, Huang Tinglin, Ying Rex, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Preprint, 2024. (Under review by Nature Biotechnology)
