@@ -43,6 +43,8 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |Nature  |https://www.nature.com|
 |Cell  |https://www.cell.com|
 |Science  |https://www.science.org|
+|Nature Health  |https://www.nature.com/naturehealth/|
+|Nature Biomedical Engineering  |https://www.nature.com/natbiomedeng/|
 |The Proceedings of the National Academy of Sciences  |https://www.pnas.org/page/about|
 |Nature Communication  |https://www.nature.com/ncomms/|
 |Science Advances  |https://www.science.org/journal/sciadv|
@@ -58,12 +60,10 @@ Here is a list for awesome journals/conferences of Bioinformatics.
 |**Journal**  |<br/>|
 |Nature Machine Intelligence  |https://www.nature.com/natmachintell/|
 |Nature Computational Science |https://www.nature.com/natcomputsci|
+|IEEE TPAMI |https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34|
 |Journal of Machine Learning Research (JMLR)  |https://www.jmlr.org|
 |Artificial Intelligence|https://www.journals.elsevier.com/artificial-intelligence|
 |**Conference**  |<br/>|
 |Conference on Neural Information Processing Systems (NeurIPS)  |https://nips.cc|
 | International Conference on Machine Learning (ICML)  |https://icml.cc|
 |International Conference on Learning Representations (ICLR)  |https://iclr.cc|
-|International Joint Conferences on Artificial Intelligence (IJCAI)  |https://www.ijcai.org|
-|Knowledge Discovery and Data Mining (KDD)  |https://dl.acm.org/conference/kdd|
-|Association for the Advancement of Artificial Intelligence (AAAI)  |https://aaai.org/Conferences|
