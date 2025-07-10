@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-News: We are organizing New England NLP Meeting 2025, please refer our website for details: https://nenlp.github.io/spr2025/ !  <!-- News: One paper accepted by Nature Communications! Big congs to Xiao and Tinyi!  --> <!-- News: I will join Broad Institute as a visiting scholar this summer, see you at Boston! --> <!-- News: One paper accepted by RECOMB 2025 for oral presentation! Big congs to all the co-authors! -->
+News: News: One paper accepted by Genome Biology! Big congs to Wenxin! <!-- We are organizing New England NLP Meeting 2025, please refer our website for details: https://nenlp.github.io/spr2025/ ! -->  <!-- News: One paper accepted by Nature Communications! Big congs to Xiao and Tinyi!  --> <!-- News: I will join Broad Institute as a visiting scholar this summer, see you at Boston! --> <!-- News: One paper accepted by RECOMB 2025 for oral presentation! Big congs to all the co-authors! -->
 ======
 
 Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states
