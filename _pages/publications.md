@@ -35,13 +35,15 @@ title: "Publications"
 As (Associate) Editors or (Area) Chairs:
 * NENLP 2025
 * ARR
+* NeurIPS
 
 As reviewers:
-* Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP, Communication Biology, Genome Biology, BMC Genomics
+* Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP, Communication Biology, Genome Biology, BMC Genomics, Nature Communications
 * Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI, AISTATS, ARR
 * Competitions: 3rd Open Problems in Single-cell Competition
 
 As organizers:
+* NENLP 2025
 * AI+Music social activity: NeurIPS 2023.
 * LLMs for biomedical research meeting: EMNLP 2024.
 
