@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am on the job market this year! Any recommendations for TTAP and Research Scientists Position are welcomed!\
+I am on the job market! Any recommendations for TTAP and Research Scientist positions are welcomed!\
 News: Papers accepted by Nature Biomedical Engineering and Cell Patterns! Big congs to all co authors! <!-- One paper accepted by Nature Communications! Big congs to Tinglin, Lijun, and Yingxin! One paper accepted by Cell Reports Methods! Big congs to Jia! --> <!-- One paper accepted by Genome Biology! Big congs to Wenxin! --> <!-- We are organizing New England NLP Meeting 2025, please refer our website for details: https://nenlp.github.io/spr2025/ ! -->  <!-- News: One paper accepted by Nature Communications! Big congs to Xiao and Tinyi!  --> <!-- News: I will join Broad Institute as a visiting scholar this summer, see you at Boston! --> <!-- News: One paper accepted by RECOMB 2025 for oral presentation! Big congs to all the co-authors! -->
 ======
 
