@@ -57,7 +57,7 @@ As contributors:
 * Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
 * Maira Elahi (ML4H mentee, Riverside Secondary School)
 
-![Example](/images/col_institute_new.png)
+![Example](/images/collaboration.png)
 
 <!--
 {% if author.googlescholar %}
