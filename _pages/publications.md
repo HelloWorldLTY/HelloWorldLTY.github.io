@@ -23,11 +23,17 @@ title: "Publications"
 
 # Talk
 
-* Second Annual Yale Single Cell Symposium
+* Second Annual Yale Single Cell Symposium, Oct 2022
 * 2nd Open Problems in Single-cell Competition during NeurIPS 2022
 * Novo Nordisk, Oct 2023
 * Emory University, Oct 2023
 * Chan Zuckerberg Initiative, Mar 2024
+* RECOMB, May 2025
+* CGM, Aug 2025
+* Argonne National Laboratory, Oct 2025
+* Northwestern University, Oct 2025
+* UW Madison, Oct 2025
+* UIUC, Oct 2025
 
 # Services
 
