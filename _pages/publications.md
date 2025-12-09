@@ -34,6 +34,8 @@ title: "Publications"
 * Northwestern University, Oct 2025
 * UW Madison, Oct 2025
 * UIUC, Oct 2025
+* Yale BIDS Raising Star Seminar, Dec 2025
+* Duke-NUS, Jan 2026
 
 # Services
 
