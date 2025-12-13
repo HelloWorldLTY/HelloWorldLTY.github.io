@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D at [Yale University](https://www.yale.edu/), 2026 (plan) Advisor: Dr. Hongyu Zhao; Committee: Dr. Ying Rex; Dr. Yuval Kluger
+* Ph.D at [Yale University](https://www.yale.edu/), 2026 (plan) Advisor: Dr. Hongyu Zhao; Committee: Dr. Rex Ying; Dr. Yuval Kluger
 * M.S. at [Yale University](https://www.yale.edu/), 2025
 * B.S. with highest honor at [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
 * B.E. with outstanding student at [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
