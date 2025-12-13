@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D at [Yale University](https://www.yale.edu/), 2026 (plan)
+* Ph.D at [Yale University](https://www.yale.edu/), 2026 (plan) Advisor: Dr. Hongyu Zhao; Committee: Dr. Ying Rex; Dr. Yuval Kluger
 * M.S. at [Yale University](https://www.yale.edu/), 2025
 * B.S. with highest honor at [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC), 2022
 * B.E. with outstanding student at [Zhejiang University](https://www.zju.edu.cn/english) (ZJU), 2022
@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Teammates: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Strittmatter Stephen](https://medicine.yale.edu/profile/stephen-strittmatter/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo Xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm), [Zou James](https://www.james-zou.com/), [Mahmood Faisal](https://faisal.ai/), [Jin Wengong](https://wengong-jin.github.io/), [Pinello Luca](https://dms.hms.harvard.edu/people/luca-pinello), [Collins Jim](https://be.mit.edu/faculty/james-j-collins/).
+  * Co-authors: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Strittmatter Stephen](https://medicine.yale.edu/profile/stephen-strittmatter/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo Xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm), [Zou James](https://www.james-zou.com/), [Mahmood Faisal](https://faisal.ai/), [Jin Wengong](https://wengong-jin.github.io/), [Pinello Luca](https://dms.hms.harvard.edu/people/luca-pinello), [Collins Jim](https://be.mit.edu/faculty/james-j-collins/), [Qingyu Chen](https://medicine.yale.edu/profile/qingyu-chen/).
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
