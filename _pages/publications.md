@@ -36,6 +36,7 @@ title: "Publications"
 * UIUC, Oct 2025
 * Yale BIDS Raising Star Seminar, Dec 2025
 * Duke-NUS, Jan 2026
+* UCSB, Jan 2026
 
 # Services
 
