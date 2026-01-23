@@ -29,7 +29,7 @@ Abstract: Foundation Models (FMs) have made significant strides in both industri
 
 Operation System Competition
 ======
-I would like to thank my lovely and clever teammates at first: [Lian Xinyu](https://xinyulian.tech), Lou Jiaqi and [Zhu Zhongbo](https://github.com/zzb66666666x).
+I would like to thank my lovely and clever teammates at first: [Lian Xinyu (Now UIUC PhD)](https://xinyulian.tech), Lou Jiaqi (Now UIUC PhD) and [Zhu Zhongbo (Now NVIDIA)](https://github.com/zzb66666666x).
 
 ![Example](/images/desktop.jpg)
 
