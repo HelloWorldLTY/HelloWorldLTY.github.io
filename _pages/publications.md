@@ -10,33 +10,35 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
-* Liu Tianyu, Huang Tinglin, Ding Tong, Wu Hao, Humphrey Peter, Perincheri Sudhir, Schalper Kurt, Ying Rex, Xu Hua, Zou James, Mahmood Faisal, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Nature Biomedical Engineering, 2025. (in press)
+* Liu Tianyu, Huang Tinglin, Ding Tong, Wu Hao, Humphrey Peter, Perincheri Sudhir, Schalper Kurt, Ying Rex, Xu Hua, Zou James, Mahmood Faisal, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Nature Biomedical Engineering, 2025.
 * Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. Building A Unified Model for Drug Synergy Analysis Powered by Language Models. Nature Communications, 16.1 (2025): 1-17.
-* Liu Tianyu, Zhang Xiangyu, Ying Rex, Zhao Hongyu<sup>*</sup>. Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics. Preprint, 2024. (Under review by Science Advances)
 * Liu Tianyu, Huang Tinglin, Lin Yingxin, Ying Rex, Zhao Hongyu<sup>*</sup>. UNICORN: Towards universal cellular expression prediction with a multi-task learning framework. Nature Communications 16.1 (2025): 9455.
 * <u>Liu, Tianyu</u> and <u>De Brouwer, Edward</u> and Kuo, Tony and Diamant, Nathaniel and Missarova, Alsu and Wang, Hanchen and Hao, Minsheng and Bravo, Hector Corrada and Scalia, Gabriele<sup>* </sup> and Regev, Aviv<sup>* </sup> and Heimberg Graham<sup>* </sup>. Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states. Research in Computational Molecular Biology (RECOMB) and Cell Systems (invited submission), 2025. (oral)
 * Liu Tianyu, Xiao Yijia, Luo Xiao, Xu Hua, Zheng Jim Wenjin, Zhao Hongyu<sup>*</sup>. Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research. The 2024 Conference on Empirical Methods in Natural Language Processing. ACL, 2024. (poster)
-* Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Chen Yiqun, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Cell Patterns, 2025. (in press)
+* Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. Advanced Science, 2026 (in press).
+* Liu Tianyu, <u>Chen Tianqi</u>, <u>Zheng Wangjie</u>, Luo Xiao, Chen Yiqun, Zhao Hongyu<sup>*</sup>. scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis. Cell Patterns, 2026.
+* Liu Tianyu, Zhang Xiangyu, Ying Rex, Zhao Hongyu<sup>*</sup>. Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics. Preprint, 2024. (Under review by Science Advances)
 * Liu Tianyu, Wang Yuge, Ying Rex, Zhao Hongyu<sup>* </sup>. MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data. Thirty-seventh Conference on Neural Information Processing Systems. PMLR, 2023. (poster)
-* Liu Tianyu, Li Kexing, Wang Yuge, Li Hongyu, Zhao Hongyu<sup>*</sup>. Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. Preprint, 2023. (Under review by Advanced Science)
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 
 # Talk
 
-* Second Annual Yale Single Cell Symposium, Oct 2022
-* 2nd Open Problems in Single-cell Competition during NeurIPS 2022
-* Novo Nordisk, Oct 2023
-* Emory University, Oct 2023
-* Chan Zuckerberg Initiative, Mar 2024
-* RECOMB, May 2025
-* CGM, Aug 2025
-* Argonne National Laboratory, Oct 2025
-* Northwestern University, Oct 2025
-* UW Madison, Oct 2025
-* UIUC, Oct 2025
-* Yale BIDS Raising Star Seminar, Dec 2025
-* Duke-NUS, Jan 2026
+* PSU, Feb 2026
+* Rutgers, Feb 2026
 * UCSB, Jan 2026
+* Duke-NUS, Jan 2026
+* Yale BIDS Rising Star Seminar, Dec 2025
+* UIUC, Oct 2025
+* UW Madison, Oct 2025
+* Northwestern University, Oct 2025
+* Argonne National Laboratory, Oct 2025
+* CGM, Aug 2025
+* RECOMB, May 2025
+* Chan Zuckerberg Initiative, Mar 2024
+* Emory University, Oct 2023
+* Novo Nordisk, Oct 2023
+* 2nd Open Problems in Single-cell Competition (NeurIPS 2022), Dec 2022
+* Second Annual Yale Single Cell Symposium, Oct 2022
 
 # Services
 
@@ -44,6 +46,7 @@ As (Associate) Editors or (Area) Chairs:
 * NENLP 2025
 * ARR
 * NeurIPS
+* KDD
 
 As reviewers:
 * Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP, Communication Biology, Genome Biology, BMC Genomics, Nature Communications
