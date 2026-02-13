@@ -49,7 +49,7 @@ As (Associate) Editors or (Area) Chairs:
 * KDD
 
 As reviewers:
-* Journals: PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP, Communication Biology, Genome Biology, BMC Genomics, Nature Communications
+* Journals: Nature, Nature Communications, PLOS Comp Bio, BMC Bioinformatics, TNNLS, TALLIP, Communication Biology, Genome Biology, BMC Genomics
 * Conferences: NeurIPS, ML4H, MLCB, CVPR, ICLR, ICML, AAAI, AISTATS, ARR
 * Competitions: 3rd Open Problems in Single-cell Competition
 
