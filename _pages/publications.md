@@ -63,7 +63,8 @@ As contributors:
 
 
 # Mentees
-* Wenxin Long (BS @ NKU -> PhD @ PSU)
+* Sihan Jiang (BS @ DKU, MS @ Yale)
+* Wenxin Long (BS @ NKU -> PhD @ PSU; intern @ Genentech)
 * Zhiyuan Cao (BS @ SJTU, MS @ Yale -> PhD @ Yale)
 * Kexing Li (BS @ THU -> PhD @ Yale)
 * Bizhe Bai (ML4H mentee, BS @ UoT, MS @ UQ)
