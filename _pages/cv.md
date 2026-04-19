@@ -19,8 +19,7 @@ Education
 Research experience
 ======
 * September 2022 - Now: Research assistant at Yale
-  * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
-  * Participating in the research group focusing on computational biology and statistical genetics.
+  * Participating in the research group focusing on AI, Comp Bio, and Drug Discovery.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
   * Co-authors: [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Strittmatter Stephen](https://medicine.yale.edu/profile/stephen-strittmatter/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo Xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Huang Kexin](https://www.kexinhuang.com/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm), [Zou James](https://www.james-zou.com/), [Mahmood Faisal](https://faisal.ai/), [Jin Wengong](https://wengong-jin.github.io/), [Zitnik Marinka](https://dbmi.hms.harvard.edu/people/marinka-zitnik), [Pinello Luca](https://dms.hms.harvard.edu/people/luca-pinello), [Chen Qingyu](https://medicine.yale.edu/profile/qingyu-chen/).
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
