@@ -119,13 +119,12 @@ Skills
 
 Awards
 ======
-* MCM Honorable Mention
-* Best Presentation Award in BDAI 2021
-* 6th/30+ teams in the 1st Open Problems in scRNA-seq competition
-* Dean's List at UIUC
-* Best Design Award in ECE 385
-* Silver medal in the 2nd Open Problems in scRNA-seq competition
+* Yale BIDS Raising Star 2025
+* Top 2% Scientist in Artificial Intelligence and Image Processing 2025
 * Scholar award in NeurIPS 2023
+* Best Presentation Award in BDAI 2021
+* Third-Class Scholarship of Zhejiang University 2019-2022
+* Dean's List in UIUC 2019-2022
 
 Miscellaneous
 ======
