@@ -22,7 +22,7 @@ Research experience
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Participating in the research group focusing on computational biology and statistical genetics.
   * Advisor: [Zhao Hongyu](http://zhaocenter.org)
-  * Co-authors: [Chen Lieping](https://medicine.yale.edu/lab/chen/), [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Strittmatter Stephen](https://medicine.yale.edu/profile/stephen-strittmatter/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo Xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm), [Zou James](https://www.james-zou.com/), [Mahmood Faisal](https://faisal.ai/), [Jin Wengong](https://wengong-jin.github.io/), [Pinello Luca](https://dms.hms.harvard.edu/people/luca-pinello), [Collins Jim](https://be.mit.edu/faculty/james-j-collins/), [Chen Qingyu](https://medicine.yale.edu/profile/qingyu-chen/).
+  * Co-authors: [Zhang Le](https://medicine.yale.edu/profile/le_zhang/), [Strittmatter Stephen](https://medicine.yale.edu/profile/stephen-strittmatter/), [Ying Rex](https://www.cs.yale.edu/homes/ying-rex/), [Luo Xiao](https://luoxiao12.github.io/), [Sun Yizhou](https://web.cs.ucla.edu/~yzsun/), [Huang Kexin](https://www.kexinhuang.com/), [Xu Hua](https://medicine.yale.edu/profile/hua-xu/), [Zheng Wenjin](https://sbmi.uth.edu/faculty-and-staff/jim-zheng.htm), [Zou James](https://www.james-zou.com/), [Mahmood Faisal](https://faisal.ai/), [Jin Wengong](https://wengong-jin.github.io/), [Zitnik Marinka](https://dbmi.hms.harvard.edu/people/marinka-zitnik), [Pinello Luca](https://dms.hms.harvard.edu/people/luca-pinello), [Chen Qingyu](https://medicine.yale.edu/profile/qingyu-chen/).
 * September 2021 - August 2022: ECE 397 (Individual Research) at UIUC
   * Participating in Open Problems in scRNA-seq competition: https://openproblems.bio. 
   * Advisor: [Shomorony Ilan](http://www.ilanshomorony.com)
@@ -41,7 +41,6 @@ Research experience
   * MATH1641: Mathematical Laboratory and Modeling
   * Instructor: [WONG Chi Wing](https://hkumath.hku.hk/MathWWW/people.php?faculty.cwwong) & [LAW, Ka Ho](https://www.scifac.hku.hk/people/law-ka-ho)
   * Got A score and scholarship
-
 
 Work experience
 ======
@@ -76,10 +75,6 @@ Teaching experience
   * Zhejiang University
   * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
   * topic:  Organize discussion sections related to calculus and grade students' homework and exams.
-* February - May 2022: Teaching Assistant in Differential Equations (Plus)
-  * Zhejiang University
-  * Mentor: [Honold Thomas](https://residential.intl.zju.edu.cn/en/content/196800)
-  * topic:  Organize discussion sections related to calculus and grade students' homework and exams.
 * Septermber - December 2021: Teaching Assistant in Digital Signal Processing Lab
   * University of Illinois at Urbana-Champaign
   * Mentor: [Corey Ethan Snyder](https://grainger.illinois.edu/about/directory/faculty/cesnyde2)
@@ -99,7 +94,8 @@ Courses
   * Optional course: Microeconomics, Rhetoric and Composition.
 * Yale:
   * Core course: Intermediate Machine Learning, Statistical Inference, Linear Models, Foundation of Epidemiology, High-Dimensional Phenomena in Statistics and Learning, Trustworthy Deep Learning, Longitudinal and Multilevel Data Analysis, Theory of Survival Analysis, Theory of Generalized Linear Models, AI and Foundation Models, Statistical Methods for Causal Inference, Immunology, Cancer, Core Topics in Bioinformatics.
-  
+
+<!--
 Skills
 ======
 * Programming
@@ -119,6 +115,7 @@ Skills
   * Subsequent analysis strategy
   * Multi omics knowledge/ data integration
   * Basic concepts about molecular biology & genomics
+-->
 
 Awards
 ======
