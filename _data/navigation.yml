@@ -1,14 +1,16 @@
 # main links links
 main:
+  - title: "Students"
+    url: /students/
+
   - title: "Publications"
-    url: https://HelloWorldLTY.github.io/publications/
+    url: /publications/
     
   - title: "CV"
-    url: https://HelloWorldLTY.github.io/cv/
+    url: /cv/
   
   - title: "Bioinformatics List"
-    url: https://HelloWorldLTY.github.io/ab/
+    url: /ab/
    
    
     
-
