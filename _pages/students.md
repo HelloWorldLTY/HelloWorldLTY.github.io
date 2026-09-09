@@ -6,7 +6,7 @@ author_profile: true
 
 ## Current Students (做得好的獎勵一隻香蕉手錶)
 
-* Dingyuan Dai (research assistant, MS @ UCLA, 1st author @ MICCAI26)
+* Dingyuan Dai (research assistant, MS @ UCLA)
 * Lei Liu (research assistant, BS @ JSU & Arcadia)
 * Xiaoyu Fan (research assistant, BS @ HUST)
 * Chenyu Zhao (research assistant, MS @ SUTD)
