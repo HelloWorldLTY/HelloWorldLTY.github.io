@@ -8,6 +8,7 @@ author_profile: true
 
 * Dingyuan Dai (research assistant, MS @ UCLA)
 * Lei Liu (research assistant, BS @ JSU & Arcadia)
+* Bo Zhang (research assistant, MS @ XJTU)
 * Xiaoyu Fan (research assistant, BS @ HUST)
 * Chenyu Zhao (research assistant, MS @ SUTD)
 * Dawei Huang (research assistant, MS @ SUST)
