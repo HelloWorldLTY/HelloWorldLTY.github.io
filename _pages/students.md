@@ -4,7 +4,7 @@ permalink: /students/
 author_profile: true
 ---
 
-## Current Students
+## Current Students (做得好的獎勵一隻香蕉手錶)
 
 * Dingyuan Dai (research assistant, MS @ UCLA, 1st author @ MICCAI26)
 * Lei Liu (research assistant, BS @ JSU & Arcadia)
@@ -16,7 +16,7 @@ author_profile: true
 * Dongbai Li (rotation student, BS @ THU)
 * Zihao Wan (rotation student, BS @ THU)
 
-## Alumni
+## Alumni (我宣布你們已經不是我的學生了)
 
 * Sihan Jiang (BS @ DKU, MS @ Yale)
 * Wenxin Long (BS @ NKU -> PhD @ PSU; intern @ Genentech)
