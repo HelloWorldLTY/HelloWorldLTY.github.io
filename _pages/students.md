@@ -14,6 +14,8 @@ author_profile: true
 * Dawei Huang (research assistant, MS @ SUST)
 * Zhaokang Liang (research assistant, BS @ ZJU)
 * Qi Kang (research assistant, BS @ ZJU)
+* Ruiyang Wang (co-advise, MS @ THU)
+* Zijun Dou (co-advise, MS @ THU)
 * Dongbai Li (rotation student, BS @ THU)
 * Zihao Wan (rotation student, BS @ THU)
 
