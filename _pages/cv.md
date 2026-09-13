@@ -43,7 +43,9 @@ Research experience
 
 Work experience
 ======
-* May - August 2025: Research Internship
+* June - 2026: Researcher
+  * Alibaba USA Group
+* May 2025 - August 2026: Visiting
   * Broad Institute
   * Mentor: [Jin Wengong](https://wengong-jin.github.io/).
 * May - August 2024: Research Internship
@@ -118,6 +120,7 @@ Skills
 
 Awards
 ======
+* YNNHS Innovation Award 2026
 * Yale BIDS Raising Star 2025
 * Top 2% Scientist in Artificial Intelligence and Image Processing 2025
 * Scholar award in NeurIPS 2023
