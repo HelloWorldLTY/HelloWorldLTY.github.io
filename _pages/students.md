@@ -15,11 +15,12 @@ Please read this [page](https://sites.google.com/view/tianyuliucai) to learn abo
 * Bo Zhang (research assistant, MS @ XJTU)
 * Xiaoyu Fan (research assistant, BS @ HUST)
 * Chenyu Zhao (research assistant, MS @ SUTD)
-* Dawei Huang (research assistant, MS @ SUST)
+* Dawei Huang (research assistant, MS @ SUSTech)
 * Zhaokang Liang (research assistant, BS @ ZJU)
 * Qi Kang (research assistant, BS @ ZJU)
 * Ruiyang Wang (co-advise, MS @ THU)
 * Zijun Dou (co-advise, MS @ THU)
+* Xitong Ling (co-advise, MS @ THU)
 * Dongbai Li (rotation student, BS @ THU)
 * Zihao Wan (rotation student, BS @ THU)
 
