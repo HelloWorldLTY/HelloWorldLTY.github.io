@@ -23,7 +23,9 @@ title: "Publications"
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 
 # Talk
-
+* THU, Oct 2026
+* UMASS, July 2026
+* ACL, July 2026
 * PSU, Feb 2026
 * Rutgers, Feb 2026
 * UCSB, Jan 2026
