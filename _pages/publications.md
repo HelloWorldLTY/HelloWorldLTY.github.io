@@ -10,6 +10,7 @@ title: "Publications"
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
+* Accio Lab at Alibaba. Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work. Tech Report, 2026.
 * Liu Tianyu, Huang Tinglin, Ding Tong, Wu Hao, Humphrey Peter, Perincheri Sudhir, Schalper Kurt, Ying Rex, Xu Hua, Zou James, Mahmood Faisal, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Nature Biomedical Engineering, 2025.
 * Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. Building A Unified Model for Drug Synergy Analysis Powered by Language Models. Nature Communications, 16.1 (2025): 1-17.
 * Liu Tianyu, Huang Tinglin, Lin Yingxin, Ying Rex, Zhao Hongyu<sup>*</sup>. UNICORN: Towards universal cellular expression prediction with a multi-task learning framework. Nature Communications 16.1 (2025): 9455.
