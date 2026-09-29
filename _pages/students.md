@@ -8,7 +8,7 @@ author_profile: true
 
 Please read this [page](https://sites.google.com/view/tianyuliucai) to learn about my research style, what I expect from future students/postdocs, and how to contact me to discuss collaboration. If you're interested in joining our team at Alibaba, please consider applying for the [Alistar Program](https://campus-talent.alibaba.com/campus/alistar?lang=zh).
 
-## Current Students (做得好的獎勵一隻香蕉手錶)
+## Current Students (做得好的獎勵一個小米手環-冷鋒藍)
 
 * Dingyuan Dai (research assistant, MS @ UCLA)
 * Lei Liu (research assistant, BS @ JSU & Arcadia)
