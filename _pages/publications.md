@@ -5,12 +5,20 @@ author_profile: true
 title: "Publications"
 ---
 
+# Research Interests
+
+- General AI Co-Scientist (*[SAGA](https://arxiv.org/abs/2512.21782), *[ARIEL](https://arxiv.org/abs/2505.04638), [DrugSAGE](https://arxiv.org/abs/2605.15461), etc.*)
+- Benchmarking and Evaluations (*[OSWorld-Science](https://discoailab.github.io/osworld-science-page/), [SciAgentArena](https://sciagentarena.github.io/), etc.*)
+- Foundation Models for Biomedical Research (*[BAITSAO](https://github.com/HelloWorldLTY/BAITSAO), [UNICORN](https://github.com/HelloWorldLTY/UNICORN), [spEMO](https://github.com/HelloWorldLTY/spEMO), etc.*)
+- Large Multi-Modal and Reasoning Models (*[Occamy](https://arxiv.org/abs/2609.11977), *[TeamPath](https://arxiv.org/abs/2511.17652), *[RareDx](https://arxiv.org/pdf/2609.35549), etc.*)
+
 # Selected Publications
 
 <u>Underline means these authors contribute equally to this work.</u> 
 
 <sup>*</sup>: To whom the correspondence should be addressed.
 * Accio Lab at Alibaba. Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work. Tech Report, 2026 ([HuggingFace Daily Papers](https://x.com/HuggingPapers/status/2101224284743971131)).
+* <u>Du Yuanqi</u>, <u>Yu Botao</u>, <u>Liu Tianyu</u>, et al. Accelerating scientific discovery with autonomous goal-evolving agents. Nature Machine Intelligence, 2027 (in press).
 * Liu Tianyu, Huang Tinglin, Ding Tong, Wu Hao, Humphrey Peter, Perincheri Sudhir, Schalper Kurt, Ying Rex, Xu Hua, Zou James, Mahmood Faisal, Zhao Hongyu<sup>*</sup>. spEMO: Exploring the Capacity of Foundation Models for Analyzing Spatial Multi-Omic Data. Nature Biomedical Engineering, 2025.
 * Liu Tianyu, Chu Tinyi, Luo Xiao, Zhao Hongyu<sup>*</sup>. Building A Unified Model for Drug Synergy Analysis Powered by Language Models. Nature Communications, 16.1 (2025): 1-17.
 * Liu Tianyu, Huang Tinglin, Lin Yingxin, Ying Rex, Zhao Hongyu<sup>*</sup>. UNICORN: Towards universal cellular expression prediction with a multi-task learning framework. Nature Communications 16.1 (2025): 9455.
@@ -23,6 +31,8 @@ title: "Publications"
 * Liu Tianyu<sup>*</sup>, Greenberg Grant, Shomorony Ilan. CVQVAE: A Representation Learning based Method for Multi-omics Single Cell Data Integration. Machine Learning in Computational Biology. PMLR, 2022. (Spotlight, top 12%)
 
 # Talk
+* Tencent Hy, Oct 2026
+* BEIHAI Summit, Oct 2026
 * THU, Oct 2026
 * UMASS, July 2026
 * ACL, July 2026
