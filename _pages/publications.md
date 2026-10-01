@@ -7,7 +7,7 @@ title: "Publications"
 
 # Research Interests
 
-- General AI Co-Scientist (*[SAGA](https://arxiv.org/abs/2512.21782), *[ARIEL](https://arxiv.org/abs/2505.04638), [DrugSAGE](https://arxiv.org/abs/2605.15461), etc.*)
+- General AI Co-Scientist ([SAGA](https://arxiv.org/abs/2512.21782), *[ARIEL](https://arxiv.org/abs/2505.04638), [DrugSAGE](https://arxiv.org/abs/2605.15461), etc.*)
 - Benchmarking and Evaluations (*[OSWorld-Science](https://discoailab.github.io/osworld-science-page/), [SciAgentArena](https://sciagentarena.github.io/), etc.*)
 - Foundation Models for Biomedical Research (*[BAITSAO](https://github.com/HelloWorldLTY/BAITSAO), [UNICORN](https://github.com/HelloWorldLTY/UNICORN), [spEMO](https://github.com/HelloWorldLTY/spEMO), etc.*)
 - Large Multi-Modal and Reasoning Models (*[Occamy](https://arxiv.org/abs/2609.11977), *[TeamPath](https://arxiv.org/abs/2511.17652), *[RareDx](https://arxiv.org/pdf/2609.35549), etc.*)
