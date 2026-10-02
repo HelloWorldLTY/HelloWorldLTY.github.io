@@ -18,6 +18,7 @@ Please read this [page](https://sites.google.com/view/tianyuliucai) to learn abo
 * Dawei Huang (research assistant, MS @ SUSTech)
 * Zhaokang Liang (research assistant, BS @ ZJU)
 * Qi Kang (research assistant, BS @ ZJU)
+* Larry Li (co-advise with Qingcheng Zeng, MS @ UWaterloo)
 * Ruiyang Wang (co-advise, MS @ THU)
 * Zijun Dou (co-advise, MS @ THU)
 * Xitong Ling (co-advise, MS @ THU)
