@@ -28,6 +28,7 @@ Please read this [page](https://sites.google.com/view/tianyuliucai) to learn abo
 ## Alumni (我宣布你們已經不是我的學生了)
 
 * Sihan Jiang (BS @ DKU, MS @ Yale)
+* Fan Zhang (MS @ Gatech -> PhD @ CUHK)
 * Wenxin Long (BS @ NKU -> PhD @ PSU; intern @ Genentech)
 * Zhiyuan Cao (BS @ SJTU, MS @ Yale -> PhD @ Yale)
 * Kexing Li (BS @ THU -> PhD @ Yale)
